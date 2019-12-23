@@ -4,6 +4,10 @@ site_description: PHN Exchange Help Centre
 
 theme:
     name: "material"
+    logo: 'img/icon.png'
+
+site_dir: docs/
+docs_dir: src/
 
 nav:
     - Home: "index.md"
@@ -45,4 +49,4 @@ extra_css:
 
 markdown_extensions:
     - toc:
-          permalink: "#"
+          permalink: true

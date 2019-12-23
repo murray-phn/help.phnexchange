@@ -29,6 +29,7 @@ Host docs website as www.help.phnexchange.com.au
 find a way to use the same box with a different service in the docker container
 
 https://www.mkdocs.org/
+https://www.mkdocs.org/user-guide/configuration/
 https://github.com/squidfunk/mkdocs-material
 
 make dockerfile with latest python:
