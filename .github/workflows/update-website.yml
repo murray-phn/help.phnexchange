@@ -17,8 +17,8 @@ jobs:
         pip install mkdocs
         pip install mkdocs-material
 
+    - name: Regenerate Github Page Files
     - uses: actions/checkout@master
-    - name: Update Github Page
       run: |
         mkdocs build
 
@@ -27,6 +27,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -m "Built mkdocs" -a
+
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
