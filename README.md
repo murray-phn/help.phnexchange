@@ -6,7 +6,8 @@ download python
 
 `pip install mkdocs-material`
 
-see live preview: `mkdocs serve`
+see live preview: 
+`mkdocs serve`
 
 # How to edit
 
