@@ -1,0 +1,48 @@
+site_name: PHN Exchange Help Centre
+site_url: https://www.phnexchange.com.au/
+site_description: PHN Exchange Help Centre
+
+theme:
+    name: "material"
+
+nav:
+    - Home: "index.md"
+    - PHN:
+          - Overview: "general/overview.md"
+          - Minimum System Requirements: "general/minimum.md"
+          - Regulations: "general/regulations.md"
+          - Reports: "general/reports.md"
+          - Support: "general/support.md"
+          - Security: "general/security.md"
+          - Terms and Conditions: "general/terms.md"
+          - Resources: "general/resources.md"
+    - Practices:
+          - Engagement with Practices: "practices/engagement.md"
+          - GP Data: "practices/gpdata.md"
+          - PIP QI: "practices/pipqi.md"
+          - EULA: "practices/eula.md"
+          - Data Extraction: "practices/extraction.md"
+    - Components:
+          - ABS Atlas: "components/atlas.md"
+          - Learning Management System: "components/lms.md"
+          - Population Health: "components/populationhealth.md"
+          - Priority Areas: "components/priority.md"
+          - Admin: "components/admin.md"
+    - User guides:
+          - Members: "user-guides/members.md"
+          - Practice Members: "user-guides/practice-members.md"
+          - PHN Admins: "user-guides/phn-admins.md"
+    - PHN in a Box:
+          - Overview: "phn-in-a-box/overview.md"
+          - Components: "phn-in-a-box/components.md"
+          - Activity Tracking: "phn-in-a-box/activity-tracking.md"
+          - Extra Features: "phn-in-a-box/extra-features.md"
+          - Changelog: "phn-in-a-box/changelog.md"
+    - Versioning: "versioning.md"
+
+extra_css:
+    - ../css/extra.css
+
+markdown_extensions:
+    - toc:
+          permalink: "#"
