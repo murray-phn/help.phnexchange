@@ -13,9 +13,7 @@ nav:
         - Home: "index.md"
         - General Practices:
                   - Overview: "practices/overview.md"
-                  - GP Data: "practices/gpdata.md"
-                  - PIP QI: "practices/pipqi.md"
-                  - EULA: "practices/eula.md"
+
         - Partner PHN's:
                   - Overview: "phns/overview.md"
                   - System Specifications: "phns/system-specifications.md"
@@ -26,8 +24,11 @@ nav:
                   - Terms and Conditions: "phns/terms.md"
                   - Resources: "phns/resources.md"
                   - Engagement with Practices: "phns/engagement.md"
+                  - PIP QI: "phns/pipqi.md"
+                  - EULA: "phns/eula.md"
                   - Components:
                             - Priority Areas: "phns/components/priority-areas.md"
+                            - GP Data: "phns/components/gpdata.md"
                             - ABS Atlas: "phns/components/atlas.md"
                             - Learning Management System: "phns/components/lms.md"
                             - Population Health: "phns/components/populationhealth.md"
