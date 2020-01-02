@@ -6,7 +6,8 @@
 2. Select your PHN and click `CONTINUE` at the bottom of the page.
 3. Click `Sign In` under the `Account` section on the left navigation menu.
       1. If you have a Microsoft account:
-         1. click `SIGN IN WITH MICROSOFT`.
+         1. click `SIGN IN WITH MICROSOFT`.  
+            ![Button GP Hub](../../images/btn-sign-in-microsoft.png)  
          2. You have now registered successfully.
       2. If you do not have a Microsoft account:
          1. Enter your details into the "Sign up with new email" form.

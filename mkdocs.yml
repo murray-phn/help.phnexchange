@@ -13,7 +13,9 @@ nav:
         - Home: "index.md"
         - General Practices:
                   - Overview: "practices/overview.md"
-
+                  - Practice Profile: "practices/profile.md"
+                  - Data Report: "practices/data-report.md"
+                  - Licensing and Agreements: "practices/licensing-agreements.md"
         - Partner PHN's:
                   - Overview: "phns/overview.md"
                   - System Specifications: "phns/system-specifications.md"
@@ -41,7 +43,6 @@ nav:
                             - Changelog: "phns/phn-in-a-box/changelog.md"
         - User Guide:
                   - Members: "user-guide/members.md"
-                  - Practice Members: "user-guide/practice-members.md"
                   - PHN Admins: "user-guide/phn-admins.md"
                   - Administration: "user-guide/admin.md"
         - Changelog: "changelog.md"
