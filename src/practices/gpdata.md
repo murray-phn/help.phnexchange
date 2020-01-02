@@ -6,7 +6,7 @@ The GP profile is a minimum data set about each of the practices your PHN suppor
 
 When practices login to their GP Data Report, they will be requested to confirm that details held in the PHN Exchange about their practice are correct. The following profile field will appear for each practice as they log into their GP Data Report.
 
-![GP profile form](../../img/gp-profile.png)
+![GP profile form](../../images/gp-profile.png)
 
 This information should be regarded as the one source of truth, and it is this information that should be transcribed into your PHN’s client relationship management system. 
 
@@ -37,14 +37,14 @@ Of course, all practice specific data is only viewable by the practice sharing i
 The chart below displays one of the  PIP QI measures for a practice.
 In this case there is a view of the last 15 months and this chart shows that as of October 2019, the practice has recorded an alcohol consumption status for 66% of its patients. This is compared to the benchmark average of all data sharing practices of 42%
 
-![GP profile form](../../img/PIP1.PNG)
+![GP profile form](../../images/PIP1.PNG)
 
 ## Example 2
 
 In this example, as of October 2019, the practice has 516 active patients diagnosed with a mental health condition
 or prescribed one or more certain medications. We can also see that only 142 patients have a Mental Health Treatment Plan recorded and only 21 have Mental Health Treatment Plan reviews 
 
-![GP profile form](../../img/PIP2.PNG)
+![GP profile form](../../images/PIP2.PNG)
 
 
 
@@ -60,4 +60,4 @@ Configuration for the GP data extraction is found within the Admin page. It show
 
 The PHN Exchange sends a database query to the PHN’s database and calculates the number of patients for a practice on the PHNs data base. This number is sent back to the PHN Exchange. When a practice logs into their GP Data Report, the number is used to generate the graph.
 
-![GP data source details](../../img/gp-datasource.png)
+![GP data source details](../../images/gp-datasource.png)

@@ -1,18 +1,25 @@
-# PHN Exchange - Current licensing agreement  
-PHNs using the PHN Exchange under current licensing agreements receive
+# System Specifications
 
-- Access to the fully hosted and supported web platform www.phnexchange.com.au 
-- Hosted within Australian Territory and all data protected and  is backed up through the Microsoft Azure cloud system  
-- System uptime of 99.9% availability (as per Microsoft Azure hosting) https://azure.microsoft.com/en-au/support/legal/sla/summary/ 
-- One year of access, maintenance and hosting managed by PHN Exchange Developer staff 
+## Current licensing agreement
 
-# Support and resources
+PHNs using the PHN Exchange under current licensing agreements receive:
+
+- Access to the fully hosted and supported web platform www.phnexchange.com.au
+- Data protection and security with hosting within Australian Territory.
+- Data backups provided through the Microsoft Azure cloud system.
+- System uptime of 99% availability as per Microsoft Azure hosting.
+    [https://azure.microsoft.com/en-au/support/legal/sla/summary/](https://azure.microsoft.com/en-au/support/legal/sla/summary/)
+- One year of maintenance support by PHN Exchange Developer staff.
+
+## Support and resources
+
 PHN Exchange staff will assist you to configure and populate data into PHN Exchange, support and resources included in the licensing agreement include
 
 - Direct telephone support will be provided to key administrators  PHN developers and systems support staff 
 - Short ‘how to’ videos for your administrative staff to configure and manage data inputs into PHN Exchange
 
-# Each PHN governs it's own data and information
+## Each PHN governs it's own data and information
+
 For  the components your PHN has licensed, 
 your nominated staff are provided with administration access for your PHN, this gives you total control to
 
@@ -20,7 +27,8 @@ your nominated staff are provided with administration access for your PHN, this 
 - input and manage your own specific data where required
 - manage your licensing agreements (EULAs, data sharing, consent) to relevant external parties 
 
-# Automated features
+## Automated features
+
 Once your administrator has connected the PHN Exchange to your general practice extracted data base, 
 the PHN Exchange automatically;
 
@@ -39,10 +47,10 @@ The ABS Atlas is a mapping system linked live to the Australian Bureau of Statis
 
 PHN Exchange developer staff will assist in automating as many data feeds as possible. However in many cases, the external custodians  of these data sets do not provide interfaces allowing automation.  Currently in Victoria is is possible to automatically update information for mthe Victorian Health Information Surveillance System (VHISS).
 
-
-# Minimum Requirements
+# Accessability
 
 The PHN Exchange is a fully supported web based system.
+
 Access to most of the PHN Exchange is open to the community; permissioned login access is required to access restricted data.
 
 Most web enabled devices are able to access the PHN Exchange. It is recommended that the most recent versions of web browsers are used.

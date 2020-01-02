@@ -1,8 +1,5 @@
-# PHN Exchange - Version Log
-
-Information regarding each version of the PHN Exchange with a release timeline and new changes.
-
-## Release Process
+# Changelog
+All notable changes to the PHN Exchange will be documented in this file.
 
 Partner PHNs are invited to review and test new versions prior to release and publishing on the live site.
 
@@ -15,15 +12,9 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days
 
-## Versions
+## Unreleased
 
-### **Version 4**
-
-**Status:** Planning
-
-**Release Date:** N/A
-
-**Features:**
+### 4.0.0
 
 - **PHN specific practice resources**
 
@@ -61,38 +52,26 @@ After the test period has ended, the new version will usually be released and pu
     The ability to print graph reports.
 </p>
 
-### **Version 3**
+## Released
 
-**Status:** Released
-
-**Available in Test Environment:** Thursday the 5th of December
-
-**Close of Testing:** Wednesday the 11th of December
-
-**Expected Publish Date:** Thursday the 12th of December
-
-**Features:**
+### 3.0.0 - 12/12/2019
 
 - **Home**
-
 <p>
     Resources on the hompage for each PHN now link to the Australian Institute of Health and Welfare dashboard.
 </p>
 
 - **GP Hub**
-
 <p>
     A centralized dashboard of all the features a practice will need to access.
 </p>
 
 - **Priority Area**
-
 <p>
     In priority areas, the names of local government areas's now link to an ABS Statistics website.
 </p>
 
 - **Practice specific licenses**
-
 <p>
     Licenses created by PHN's can now be assigned to only be seen and accepted by specific practices.
 </p>
@@ -106,33 +85,28 @@ After the test period has ended, the new version will usually be released and pu
 </p>
     
 - **Option for practices to sign required license agreements to access GP Data Report**
-
 <p>
     Licenses created by PHN's can be toggled to block the GP Data Report until they have been accepted.
 </p>
 
 - **Practice required to review their details every 3 months**
-
 <p>
     Practices that login and view the GP Hub are now redirected automatically to update their practice details if the practice has not reviewed them within 3 months.
 </p>
 
 - **Interface cleanup and organization**
-
 <p>
     Previously users had to click the row on lists to open them, on all tables there will now be an "Edit" or "Continue" button on the far right of each row.
     This change facilitates accessibility requirements and allows for copying of information from rows without being interrupted.
 </p>
 
 - **Help Center**
-
 <p>
     The Help Center is a website repository of information about the PHN Exchange and PHN in a Box.
     The Help Center is available through the navigation bar on PHN Exchange.
 </p>
 
 - **Security Upgrades**
-
 <p>
     Several internal upgrades to the backend of PHN Exchange to support security.
 </p>
