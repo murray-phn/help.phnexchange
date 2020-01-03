@@ -6,18 +6,18 @@ The **GP Hub** also contains helpful information to assist a practice in data qu
 
 ### GP Hub Features
 
-- **[Practice Profile](/practices/profile)**  
+- **[Practice Profile](../../practices/profile)**  
     Maintain and organise your practice information.
-- **[Data Report](/practices/data-report)**  
+- **[Data Report](../../practices/data-report)**  
     Customised reporting and benchmarking for your practice data.
-- **[Licensing and Agreements](/practices/licensing-agreements)**  
+- **[Licensing and Agreements](../../practices/licensing-agreements)**  
     Electronic licenses agreements between your practice and your PHN.
 - **Resources** - *not yet available*  
     Resources specific to your practice provided by your PHN.
 
 ### How to access the **GP Hub**
 
-  1. <a href="/user-guide/members/#sign-in-to-the-phn-exchange" target="_blank">Sign In</a> if you have an account or <a href="/user-guide/members/#sign-up-to-the-phn-exchange" target="_blank">Sign Up</a> if you do not yet have an account.
+  1. <a href="../../user-guide/members/#sign-in-to-the-phn-exchange" target="_blank">Sign In</a> if you have an account or <a href="../../user-guide/members/#sign-up-to-the-phn-exchange" target="_blank">Sign Up</a> if you do not yet have an account.
 
     Access to the **GP Hub** is handled by email address and should be confirmed by your PHN.
 

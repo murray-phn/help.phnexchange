@@ -2,7 +2,7 @@ This feature provides the ability for electronic license agreements between your
 
 ## How to access **Pending Licenses**
 
-1. Start by follow the guide: <a href="/practices/overview/#how-to-access-the-gp-hub" target="_blank">How to access the GP Hub</a>.
+1. Start by follow the guide: <a href="../../practices/overview/#how-to-access-the-gp-hub" target="_blank">How to access the GP Hub</a>.
 2. Once you have reached the **GP Hub** click the `Licensing and Agreements` button.
     ![Button GP Hub](../../images/btn-license-agreements.png)  
       1. If the General practice has not yet been assigned an ABN, you will be asked to supply it.

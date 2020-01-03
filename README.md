@@ -16,6 +16,12 @@ see live preview:
 3. Push your changes to the repository
 4. The live site will update within 5 minutes after push
 
+# How to release
+
+`mkdocs serve`
+
+commit & push
+
 # Resources
 
 https://pages.github.com/
