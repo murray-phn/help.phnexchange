@@ -23,5 +23,3 @@ To confirm if a practice has the correct email address assigned in PATCAT:
 - Open the Practices section and find the relevant practice;
 - Scroll to the bottom of the practice page and find the Practice Members section;
 - Click "Create" and a popup will appear, supply an email address of a registered account on the PHN Exchange and toggle the flag "Is Practice Manager" to YES and click the CREATE button.
-
-# PHN Practice Coordinator
