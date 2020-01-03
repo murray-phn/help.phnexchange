@@ -6,15 +6,17 @@ Generally, most data extraction software available on the market today extracts 
 
 The PHN Exchange and its GP Data Report automates the recording and much of the reporting required by the Department.
 
-Now read the information brochure available on Murray PHN’s website [CLICK HERE](https://www.murrayphn.org.au/generalpractice/practice-incentives-program/) or paste the following into your browser search field https://www.murrayphn.org.au/generalpractice/practice-incentives-program/.
+For more informtion see information brochure available on Murray PHN’s website:  
+[https://www.murrayphn.org.au/generalpractice/practice-incentives-program/](https://www.murrayphn.org.au/generalpractice/practice-incentives-program/) 
 
 ## Quality Improvement
 
-For more information, please refer to Brisbane South PHN guide found [here](https://bsphn.org.au/primary-care-support/general-practice-quality-improvement/).
+For more information please refer to the Brisbane South PHN Guide:  
+[https://bsphn.org.au/primary-care-support/general-practice-quality-improvement/](https://bsphn.org.au/primary-care-support/general-practice-quality-improvement/)
 
 ## PIP QI measures
 
-The data PHN receives from a practice - Minimum data set for a practice to comply with PIP QI requirements: 
+The minimum data set a PHN must receive from a practice to comply with PIP QI requirements:
 
 1.	Proportion of patients with diabetes with a current HbA1c result
 2.	Proportion of patients with a smoking status recorded
@@ -38,7 +40,10 @@ The data each PHN reports on a quraterly basis to the Department includes:
 6.	Practice address
 7.	Date of upload of data from each practice
 
-The GP data report includes the PIP QI measures and will visualise any data extracted. To review a brief video (1min 6 secs) of the PIP QI section of the GP data report, [CLICK HERE](https://youtu.be/mFniG-cJ_CU) or paste the following into your browser search field https://youtu.be/mFniG-cJ_CU.
+The GP Data Report includes the PIP QI measures and will visualise any data extracted. 
+
+For review a brief video of the PIP QI section of the GP data report:  
+[https://youtu.be/mFniG-cJ_CU](https://youtu.be/mFniG-cJ_CU) 1min 6 secs
 
 ## De-identification
 

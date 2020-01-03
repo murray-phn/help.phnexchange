@@ -10,7 +10,7 @@ Each partner PHN will:
 - Have 5 working days to complete their testing and provide feedback
 - Be able to send feedback via [support@phnexchange.com.au](mailto:support@phnexchange.com.au)
 
-After the test period has ended, the new version will usually be released and published on the live site within two working days
+After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
 ## Unreleased
 
@@ -19,13 +19,13 @@ After the test period has ended, the new version will usually be released and pu
 - **PHN specific practice resources**
 
 <p>
-    The ability for PHN's to define resources to show their own practices, accessed from the GP Hub.
+    The ability for PHNs to define resources to show their own practices, accessed from the GP Hub.
 </p>
 
 - **Practice Categorization**
 
 <p>
-    The ability for PHN's to define practices in specific categories, for example "Rural and Remote".
+    The ability for PHNs to define practices in specific categories, for example "Rural and Remote".
 </p>
 
 - **PDF Report generation on LGAs and Priority Areas**
@@ -73,20 +73,20 @@ After the test period has ended, the new version will usually be released and pu
 
 - **Practice specific licenses**
 <p>
-    Licenses created by PHN's can now be assigned to only be seen and accepted by specific practices.
+    Licenses created by PHNs can now be assigned to only be seen and accepted by specific practices.
 </p>
 
 - **GP Data Report**
 <p>
     Option for practices to sign required license agreements to access GP Data Report.
-    Licenses created by PHN's can be toggled to block the GP Data Report until they have been accepted.
+    Licenses created by PHNs can be toggled to block the GP Data Report until they have been accepted.
     Time series graphs display as percentages, solid colour represents the PHN percentage while the line represents the Practice percentage.
     Graphs have been reordered showing time series graphs at the top of the GP Data Report while instant time graphs have moved to the bottom.
 </p>
     
 - **Option for practices to sign required license agreements to access GP Data Report**
 <p>
-    Licenses created by PHN's can be toggled to block the GP Data Report until they have been accepted.
+    Licenses created by PHNs can be toggled to block the GP Data Report until they have been accepted.
 </p>
 
 - **Practice required to review their details every 3 months**

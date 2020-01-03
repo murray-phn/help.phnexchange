@@ -6,7 +6,8 @@ Many of these sources have been used in the compiling of the Hot Spotting and Ma
 
 If you come across other external sites you believe would be useful to be included, please inform your Manager. 
 
-To review the current resources page [CLICK HERE](https://www.phnexchange.com.au/resources.php).
+To review the current resources page of the PHN Exchange:  
+[https://www.phnexchange.com.au/resources.php?phn=205](https://www.phnexchange.com.au/resources.php?phn=205)
 
 ## Training Resources
 

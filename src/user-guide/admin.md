@@ -25,12 +25,12 @@ As an administrator you are able to update the details if you wish.
 Please remember that the practice will be required to update these details also when they access their GP data report.
 
 ## Priority areas
-This section allows creation of priority areas for the Hot Spotting and Mapping section of the PHN Exchange. Generally, editing this area should only be completed by the PHN's designated Priority Area administrator.
+This section allows creation of priority areas for the Hot Spotting and Mapping section of the PHN Exchange. Generally, editing this area should only be completed by the PHNs designated Priority Area administrator.
 
 ![Managing PHN priority areas](../../images/priorities.png)
 
 ## Regions
-This section allows creation of Regions within the PHN Exchange. Generally, editing this area should only be completed by the PHN's designated Regions Area administrator.
+This section allows creation of Regions within the PHN Exchange. Generally, editing this area should only be completed by the PHNs designated Regions Area administrator.
 
 ![Managing PHN regions](../../images/regions.png)
 

@@ -1,13 +1,14 @@
-# Reports
+The Reports section of the **PHN Admin** dashboard contains aggregated global reports for PHNs. 
 
-The Reports sections contain consolidated global reports for your PHN. The PIP QI dashboard displays and list of practices which are compliant or non-compliant for the quarter.
+## PIP QI
 
-It is the individual Business Partner (staff member) for each practice who is responsible for following up with non-compliant practices to identify the issues and to ensure data is shared by the practice in the quarter.
+Information for the PIP QI Report comes from each practices **Practice Profile** and also from their extracted data submissions.
 
-## PIP QI Report
+It is crucial that this information is correct, Partner PHNs may need to work with their General practices ensure that their **Practice Profile** information is correct.
 
-The dashboard draws information from the GP profile within PHN Exchange. This information is updated and kept current by the practice as they login to their GP Data Report.
+### Features:
 
-This information is used in each PHN's report to the Department to enable PIP QI payments to the Practice. 
-
-It is crucial that this information is correct. You may need to work with your practice to ensure their profile information is accurate.
+- Displays a list of practices which are compliant or non-compliant for selected quarters.
+- An exportable CSV file which can be given to Department of Health as a PIP QI submission.
+- An exportable CSV file containing a list of PIP QI compliant practices.
+- An exportable CSV file containing a list of Non PIP compliant practices and listings of reasons why.

@@ -15,68 +15,77 @@ PHNs using the PHN Exchange under current licensing agreements receive:
 
 PHN Exchange staff will assist you to configure and populate data into PHN Exchange, support and resources included in the licensing agreement include
 
-- Direct telephone support will be provided to key administrators  PHN developers and systems support staff 
-- Short ‘how to’ videos for your administrative staff to configure and manage data inputs into PHN Exchange
+- Direct telephone support will be provided to key administrators, PHN developers and systems support staff.
+- Short `how to` videos for your administrative staff to configure and manage data inputs into PHN Exchange.
 
 ## Each PHN governs it's own data and information
 
-For  the components your PHN has licensed, 
-your nominated staff are provided with administration access for your PHN, this gives you total control to
+For the components your PHN has licensed, your nominated staff are provided with administration access to your PHN.
 
-- manage the connection of the PHN Exchange to your general practice extracted data base
-- input and manage your own specific data where required
-- manage your licensing agreements (EULAs, data sharing, consent) to relevant external parties 
+This gives you access to several controls:
+
+- Manage your **Practice Datasource** which controls the connection to your General practice extract Database.
+- Manage your **Licenses** (EULAs, Data sharing, Consent) to relevant external parties.
+- Input and manage your own specific data where required.
 
 ## Automated features
 
-Once your administrator has connected the PHN Exchange to your general practice extracted data base, 
-the PHN Exchange automatically;
+Once your administrator has connected the PHN Exchange to your general practice extract data using the **Practice Datasource** the PHN Exchange has the capacity for several automated features.
 
-- creates individual practice areas within the PHN Exchange
-- populates information about practices in the practice profile
-- configures to generate individual practice reports
-- uses the same login and password as the PATCAT system
-- presents a general practice report to each individual practice when they login to the system
-- only allows a practice to view their own data 
-- automatically aggregates and averages all practices using the PHN Exchange to provide benchmarking
-- automatic PIP QI dashboarding for PHN administrators
+These include:
 
-The ABS Atlas is a mapping system linked live to the Australian Bureau of Statistics data sets
-- the ABS atlas automatically displays the latest information available
-- information is available by region, PHN, LGA SA1/2/3 as ABS statistical areas 
+- Creating individual areas for practices within the PHN Exchange known as the **GP Hub**. 
+- Populating information about practices in the **Practice Profile**.
+- Generation of individual practice reports known as the **GP Data Report**.
+- Uses the email for registering practices as the PATCAT system.
+- Only allows a practice to view their own data using secured login and user permissioning.
+- Automatically aggregates and averages all practices data using the PHN Exchange to provide benchmarking.
+- Automatic PIP QI dashboarding and reporting for PHN administrators.
 
-PHN Exchange developer staff will assist in automating as many data feeds as possible. However in many cases, the external custodians  of these data sets do not provide interfaces allowing automation.  Currently in Victoria is is possible to automatically update information for mthe Victorian Health Information Surveillance System (VHISS).
+The ABS Atlas is a mapping system linked live to the Australian Bureau of Statistics data sets.
+
+- The ABS atlas automatically displays the latest information available.
+- Information is available by region, PHN, LGA SA1/2/3 as ABS statistical areas.
+
+PHN Exchange developer staff will assist in automating as many data feeds as possible. 
+
+However in many cases, the external custodians of these data sets do not provide interfaces allowing automation also known as an API. 
+
+Currently in Victoria it is possible to automatically update priority area and hotspotting information using the Victorian Health Information Surveillance System (VHISS).
 
 # Accessability
 
 The PHN Exchange is a fully supported web based system.
 
-Access to most of the PHN Exchange is open to the community; permissioned login access is required to access restricted data.
+Access to most of the PHN Exchange is open to the community
+
+Permissioned login access is required to access restricted data.
 
 Most web enabled devices are able to access the PHN Exchange. It is recommended that the most recent versions of web browsers are used.
 
-## Required additional systems recommended for PHN staff 
+## Additional systems recommended for PHN staff 
 
-Other systems used in conjunction with the PHN Exchange by PHNs are listed below.
-Each Practice Coordinator (the PHN staff member interacting with general practice) should check with their manager as to which systems their PHN uses and to which they need login access:
+Each Practice Coordinator (The PHN staff member interacting with general practice) should check with their manager as to which systems their PHN uses and need login access for.
 
-- PHN Exchange – Administration status - GP data report;
-- PHN National SharePoint; 
-- PATCAT;
-- PenCS Uploads dashboard;
-- POLAR Explorer;
-- Primary Sense;
-- Armchair Medical;
-- HealthPathways; 
-- PHN Learning Management System;
-- PHN Stream in-house HOW TO videos.
+Other systems used in conjunction with the PHN Exchange by PHNs are listed below:
+
+- PHN Exchange – Administration status - GP data report
+- PHN National SharePoint
+- PATCAT
+- PenCS Uploads dashboard
+- POLAR Explorer
+- Primary Sense
+- Armchair Medical
+- HealthPathways
+- PHN Learning Management System
+- PHN Stream in-house HOW TO videos
 
 ## Minimum proficiencies and knowledge base
 
 Practice Coordinators should know how to:
 
-- Access the PATCAT / Polar / Primary Sense;
-- Access the PHN Exchange GP Data report;
-- Compare key information to ensure the GP Data report is accurate;
-- Enable Practice Coordinator support of the Practices in their use of the PHN Exchange GP Data report.
+- Access the PATCAT / Polar / Primary Sense or relevant extraction software.
+- Access the PHN Exchange GP Data report.
+- Compare key information to ensure the GP Data report is accurate with extracted data.
+- Enable Practice Coordinator support of the Practices in their use of the PHN Exchange GP Data Report.
  
