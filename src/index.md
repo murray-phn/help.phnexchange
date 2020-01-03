@@ -4,11 +4,11 @@ This website site will guide you through the <a href="https://www.phnexchange.co
 
 For General Practice Staff, continue by clicking this link:
 
-#### [General Practice Introduction](practices/overview/)
+#### [General Practice Introduction](practices/introduction/)
 
 For Partner PHN's, continue by clicking this link:
 
-#### [Partner PHN's Introduction](phns/overview/)
+#### [Partner PHN's Introduction](phns/introduction/)
 
 Thank you for using the PHN Exchange.
 

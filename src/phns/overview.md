@@ -1,4 +1,4 @@
-# Partner PHN Overview
+# Partner PHN Introduction
 
 PHN Exchange is an innovative population health knowledge management system that’s designed to support, influence and improve health outcomes.  
  
@@ -15,7 +15,7 @@ Originally conceived and developed by Murray PHN for its own use, the inherent p
 For a brief introduction please see this video:  
 [https://www.youtube.com/watch?v=uHfd5ScNO2c](https://www.youtube.com/watch?v=uHfd5ScNO2c) 11min 20 secs
 
-# Introduction to this documentation
+## Use of documentation
 
 This guide is primarily for use by PHN staff working with General Practice.
 

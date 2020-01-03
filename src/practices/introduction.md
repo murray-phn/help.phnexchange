@@ -1,4 +1,4 @@
-# General Practice Overview
+# General Practice Introduction
 
 General Practices have access to several features within the PHN Exchange that have been organised into a dashboard named the **GP Hub**.
 
