@@ -18,7 +18,7 @@ see live preview:
 
 # How to release
 
-`mkdocs serve`
+`mkdocs build`
 
 commit & push
 

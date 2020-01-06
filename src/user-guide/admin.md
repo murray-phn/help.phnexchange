@@ -1,15 +1,16 @@
 # Administration
 
 PHN staff engaging with practices will have administration access to the PHN Exchange. Contact your internal PHN Exchange team to organise your access.
-Access to the GP Data report is restricted to permisions set by your PHN. In summary they are;
 
-1.	Login as a Practice Member (Non PracticeManager)
+Access the PHN Exchange is restricted to a set of permisions provided by your PHN.
+
+- Practice Member (Non PracticeManager)  
 This person can see the GP Data report.
-2.	Login as a Practice Member (PacticeManager)
+- Practice Member (PacticeManager)  
 This person can see the GP Data report and accept legal agreements.
-3.	Login as a PHN Member (PracticeCoordinator)
+- PHN Member (PracticeCoordinator)  
 This person can see all GP Data reports for their assigned PHN.
-4.	Login as PHN Member (Admin)
+- PHN Member (Admin)  
 This person can see all GP Data Reports and change any PHN details for their assigned PHN.
 
 The PHN Exchange Administration section comprises several sections. Each section will expand in a similar way to the actual GP Data report.
