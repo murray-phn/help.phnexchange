@@ -1,4 +1,5 @@
 # Changelog
+
 All notable changes to the PHN Exchange will be documented in this file.
 
 Partner PHNs are invited to review and test new versions prior to release and publishing on the live site.
@@ -46,7 +47,11 @@ After the test period has ended, the new version will usually be released and pu
     The ability to print graph reports.
 </p>
 
-### 3.0.1
+## Released 
+
+### 3.0.1 - 9/01/2020
+
+**Added**
 
 - **Ongoing license agreement types**
 
@@ -54,7 +59,16 @@ After the test period has ended, the new version will usually be released and pu
     The ability to have ongoing or perpetual practice license agreements between PHNs and General Practices.
 </p>
 
-## Released
+- **UI Upgrade to tables**
+
+<p>
+    Added refresh button and total items count to table lists.
+</p>
+
+**Fixed**
+
+- **CSV PIP QI report to DOH handle PHN names with spaces**
+- **CSV PIP QI report to DOH fixed incorrect name mentioning hour instead of day**
 
 ### 3.0.0 - 12/12/2019
 
