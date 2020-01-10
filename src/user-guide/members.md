@@ -8,7 +8,7 @@
       1. If you have a Microsoft account:
          1. click `SIGN IN WITH MICROSOFT`.  
             ![Button GP Hub](../../images/btn-sign-in-microsoft.png)  
-         2. Success! You have now registered.
+         2. Success! You have finished **Sign Up to the PHN Exchange**.
       2. If you do not have a Microsoft account:
          1. Enter your details into the `Sign up with new email` form.
          2. Click the `I'm not a robot` checkbox.

@@ -47,6 +47,12 @@ After the test period has ended, the new version will usually be released and pu
     The ability to print graph reports.
 </p>
 
+### 3.0.2
+
+**Fixed**
+
+- **Priority Area Export incorrectly listing LGA names**
+
 ## Released 
 
 ### 3.0.1 - 9/01/2020
