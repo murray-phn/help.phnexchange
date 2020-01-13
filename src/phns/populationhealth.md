@@ -1,4 +1,4 @@
-# Population health principles
+# Population Health Principles
 
 PHNs operate within their defined catchment areas. PHNs affect health system change by commissioning service providers to deliver services in areas of need. This might be where Hotspots (persistent high use of health services and or incidence of disease) and Blackspots (persistent lack of services in a geographic area) occur.
 

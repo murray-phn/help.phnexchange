@@ -14,8 +14,8 @@ Originally conceived and developed by Murray PHN for its own use, the inherent p
 
 Evolving in scale and depth to soon include the mapping of these other PHN areas, PHN Exchange is now poised with the capacity and scalability to become the primary population health service planning platform for the sector across Australia.  
   
-For a brief introduction please see this video:  
-[https://www.youtube.com/watch?v=uHfd5ScNO2c](https://www.youtube.scom/watch?v=uHfd5ScNO2c) 11min 20 secs
+For an introduction please see this video:  
+[https://www.youtube.com/watch?v=uHfd5ScNO2c](https://www.youtube.com/watch?v=uHfd5ScNO2c) 11min 20 secs
 
 ## PHN Impact within community
 

@@ -11,40 +11,35 @@ docs_dir: src/
 
 nav:
         - Home: "index.md"
+        - Members: "members.md"
         - General Practices:
                   - Introduction: "practices/introduction.md"
-                  - Practice Profile: "practices/profile.md"
-                  - Data Report: "practices/data-report.md"
-                  - Licensing and Agreements: "practices/licensing-agreements.md"
+                  - GP Hub:
+                        - Practice Profile: "practices/profile.md"
+                        - Data Report: "practices/data-report.md"
+                        - Licensing and Agreements: "practices/licensing-agreements.md"
         - Partner PHNs:
                   - Introduction: "phns/introduction.md"
-                  - System Specifications: "phns/system-specifications.md"
+                  - PHN Admin:
+                        - Introduction: "phns/phn-admins/introduction.md"
+                        - Administration: "phns/phn-admins/admin.md"
+                  - Cyber Security and Data Governance: "phns/security.md"
                   - Regulations: "phns/regulations.md"
-                  - Reports: "phns/reports.md"
-                  - Support: "phns/support.md"
-                  - Security: "phns/security.md"
-                  - Terms and Conditions: "phns/terms.md"
-                  - Resources: "phns/resources.md"
-                  - Engagement with Practices: "phns/engagement.md"
-                  - PIP QI: "phns/pipqi.md"
                   - EULA: "phns/eula.md"
+                  - PIP QI: "phns/pipqi.md"
+                  - System Specifications: "phns/system-specifications.md"
+                  - Engagement with Practices: "phns/engagement.md"
+                  - Population Health Principles: "phns/populationhealth.md"
                   - Components:
                             - Priority Areas: "phns/components/priority-areas.md"
                             - GP Data: "phns/components/gpdata.md"
                             - ABS Atlas: "phns/components/atlas.md"
                             - Learning Management System: "phns/components/lms.md"
-                            - Population Health: "phns/components/populationhealth.md"
                             - Data Extraction: "phns/components/extraction.md"
-                  - PHN in a Box:
-                            - Overview: "phns/phn-in-a-box/overview.md"
-                            - Components: "phns/phn-in-a-box/components.md"
-                            - Activity Tracking: "phns/phn-in-a-box/activity-tracking.md"
-                            - Extra Features: "phns/phn-in-a-box/extra-features.md"
-                            - Changelog: "phns/phn-in-a-box/changelog.md"
-        - User Guide:
-                  - Members: "user-guide/members.md"
-                  - PHN Admins: "user-guide/phn-admins.md"
-                  - Administration: "user-guide/admin.md"
+                  - Resources: "phns/resources.md"
+                  - Support: "phns/support.md"
+        - Terms and Conditions: "terms.md"
+        - Privacy Policy: "privacy.md"
         - Changelog: "changelog.md"
 
 extra_css:
