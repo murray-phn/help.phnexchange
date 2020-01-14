@@ -49,9 +49,18 @@ After the test period has ended, the new version will usually be released and pu
 
 ### 3.0.2
 
+**Upgraded**
+
+- **Emails now sent more quickly**  
+  Email system upgraded to send emails in realtime
+
 **Fixed**
 
 - **Priority Area Export incorrectly listing LGA names**
+- **PIP QI Registration Date not being loaded for PIP QI Report**
+- **Incorrect Naming of PHN Member Role**
+- **Visual Bug related to perpetual license agreements**
+- **Colour of buttons in priority areas for saving/updating content**
 
 ## Released 
 
