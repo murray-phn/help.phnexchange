@@ -11,18 +11,22 @@ docs_dir: src/
 
 nav:
         - Home: "index.md"
-        - Members: "members.md"
         - General Practices:
                   - Introduction: "practices/introduction.md"
-                  - GP Hub:
-                        - Practice Profile: "practices/profile.md"
-                        - Data Report: "practices/data-report.md"
-                        - Licensing and Agreements: "practices/licensing-agreements.md"
+                  - Practice Profile: "practices/profile.md"
+                  - Data Report: "practices/data-report.md"
+                  - Licensing and Agreements: "practices/licensing-agreements.md"
         - Partner PHNs:
                   - Introduction: "phns/introduction.md"
                   - PHN Admin:
                         - Introduction: "phns/phn-admins/introduction.md"
-                        - Administration: "phns/phn-admins/admin.md"
+                        - Reports: "phns/phn-admins/reports.md"
+                        - Practice Datasource: "phns/phn-admins/practice-datasource.md"
+                        - Practices: "phns/phn-admins/practices.md"
+                        - Priority Areas: "phns/phn-admins/priority-areas.md"
+                        - Regions: "phns/phn-admins/regions.md"
+                        - Licenses: "phns/phn-admins/licenses.md"
+                        - PHN Members: "phns/phn-admins/phn-members.md"
                   - Cyber Security and Data Governance: "phns/security.md"
                   - Regulations: "phns/regulations.md"
                   - EULA: "phns/eula.md"
@@ -38,6 +42,7 @@ nav:
                             - Data Extraction: "phns/components/extraction.md"
                   - Resources: "phns/resources.md"
                   - Support: "phns/support.md"
+        - Members: "members.md"
         - Terms and Conditions: "terms.md"
         - Privacy Policy: "privacy.md"
         - Changelog: "changelog.md"
@@ -47,4 +52,4 @@ extra_css:
 
 markdown_extensions:
         - toc:
-                  permalink: true
+                permalink: true
