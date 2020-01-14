@@ -9,7 +9,7 @@ There are two **PHN Member** roles:
 
 ## How to create a PHN Member
 
-1. <a href="../../../members/#sign-in-to-the-phn-exchange" target="_blank">Sign In</a> to your PHN Admin account.
+1. <a href="../../../members/#sign-in-to-the-phn-exchange" target="_blank">Sign In</a> to your **PHN Admin** account.
 2. Click **PHN Admin** on the left navigation menu.
 3. Select your PHN by clicking `CONTINUE`.
 4. On the **PHN Admin** page, scoll down to the section named **PHN Members** and expand the section by clicking on it.

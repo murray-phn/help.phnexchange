@@ -12,7 +12,7 @@ To allow a user access to view practice data they must be added as a **Practice 
 
 ## How to add a **Practice Member**
 
-- <a href="../../../members/#sign-in-to-the-phn-exchange" target="_blank">Sign In</a> to the PHN Exchange.
+- <a href="../../../members/#sign-in-to-the-phn-exchange" target="_blank">Sign In</a> to your **PHN Admin** account.
 - Click Admin on the left menu and navigate to your PHN.
 - Open the Practices section and find the relevant practice.
 - Scroll to the bottom of the practice page and find the Practice Members section.
