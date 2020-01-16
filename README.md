@@ -20,6 +20,8 @@ see live preview:
 
 `mkdocs build`
 
+Copy the CNAME file into the docs directory
+
 commit & push
 
 # Resources

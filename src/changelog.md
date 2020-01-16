@@ -47,14 +47,17 @@ After the test period has ended, the new version will usually be released and pu
     The ability to print graph reports.
 </p>
 
+
+## Released
+
 ### 3.0.2
 
-**Upgraded**
+Upgraded
 
 - **Emails now sent more quickly**  
   Email system upgraded to send emails in realtime
 
-**Fixed**
+Fixed
 
 - **Priority Area Export incorrectly listing LGA names**
 - **PIP QI Registration Date not being loaded for PIP QI Report**
@@ -62,11 +65,14 @@ After the test period has ended, the new version will usually be released and pu
 - **Visual Bug related to perpetual license agreements**
 - **Colour of buttons in priority areas for saving/updating content**
 
-## Released 
+Known Issues
+
+- **Some pages not updating with new fixeds**  
+  Need to press left control + F5 to hard refresh pages, fixed in next version.
 
 ### 3.0.1 - 9/01/2020
 
-**Added**
+Added
 
 - **Ongoing license agreement types**
 
@@ -80,7 +86,7 @@ After the test period has ended, the new version will usually be released and pu
     Added refresh button and total items count to table lists.
 </p>
 
-**Fixed**
+Fixed
 
 - **CSV PIP QI report to DOH handle PHN names with spaces**
 - **CSV PIP QI report to DOH fixed incorrect name mentioning hour instead of day**
