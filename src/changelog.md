@@ -47,7 +47,9 @@ After the test period has ended, the new version will usually be released and pu
     The ability to print graph reports.
 </p>
 
-### 3.0.3
+## Released
+
+### 3.0.3 - 16/01/2020
 
 Fixed
 
@@ -57,8 +59,6 @@ Fixed
 - **Wording on some graphs from 'completed' to 'recorded by practice'**
 - **Error with exclusive licenses**
 - **Fixed some pages not automatically getting new updates**
-
-## Released
 
 ### 3.0.2 - 14/01/2020
 
