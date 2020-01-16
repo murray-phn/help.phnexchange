@@ -47,10 +47,20 @@ After the test period has ended, the new version will usually be released and pu
     The ability to print graph reports.
 </p>
 
+### 3.0.3
+
+Fixed
+
+- **Added some Missing fields to immunisation graphs like 'Not Recorded'**
+- **Added missing bipolar record on Mental Health graphs**
+- **Typos in health conditions**
+- **Wording on some graphs from 'completed' to 'recorded by practice'**
+- **Error with exclusive licenses**
+- **Fixed some pages not automatically getting new updates**
 
 ## Released
 
-### 3.0.2 16/01/2020
+### 3.0.2 - 16/01/2020
 
 Upgraded
 
