@@ -50,7 +50,7 @@ After the test period has ended, the new version will usually be released and pu
 
 ## Released
 
-### 3.0.2
+### 3.0.2 16/01/2020
 
 Upgraded
 
