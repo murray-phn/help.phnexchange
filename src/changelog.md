@@ -49,6 +49,12 @@ After the test period has ended, the new version will usually be released and pu
 
 ## Released
 
+### 3.0.4 - 28/01/2020
+
+Upgraded
+
+- **Backend software - php 7.3 to php 7.4**
+
 ### 3.0.3 - 16/01/2020
 
 Fixed
