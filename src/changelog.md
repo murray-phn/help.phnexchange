@@ -47,6 +47,13 @@ After the test period has ended, the new version will usually be released and pu
     The ability to print graph reports.
 </p>
 
+### 3.0.5
+
+Fixed
+
+- **Fixed spelling in proportion of active patients with IMI Record to IHI Record.**
+- **Latest data submission in practice summary showing incorrect months**
+
 ## Released
 
 ### 3.0.4 - 28/01/2020
