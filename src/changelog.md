@@ -47,14 +47,22 @@ After the test period has ended, the new version will usually be released and pu
     The ability to print graph reports.
 </p>
 
-### 3.0.5
+## Released
+
+### 3.0.5 - 13/02/2020
+
+Added
+
+- **Added footer to GP Data report with usefull controls**
+- **Added ability to print sections of GP Data Report**
+- **Added 1 minute explanation video per section of the GP Data Report**
 
 Fixed
 
 - **Fixed spelling in proportion of active patients with IMI Record to IHI Record.**
-- **Latest data submission in practice summary showing incorrect months**
-
-## Released
+- **Fixed latest data submission in practice summary showing incorrect months and data.**
+- **Fixed error related to duplicate practice member and not being able to login.**
+- **Fixed front page not displaying properly on some devices.**
 
 ### 3.0.4 - 28/01/2020
 
