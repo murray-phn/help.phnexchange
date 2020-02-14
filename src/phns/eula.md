@@ -1,10 +1,14 @@
-# Document acceptance system (EULA capture)
+# Document Acceptance System
 
-The PHN Exchange has an incorporated document acceptance system. It allows each PHN to manage their individual documents (EULA T&A Consent). Each PHN using the PHN Exchange can manage presentation of thier documentation to a practice via the PHN Exchange. 
+The PHN Exchange has an incorporated document acceptance system. It allows each PHN to manage their individual documents. 
+
+PHNs should be aware that electronic tick boxes for acceptance indication can only be used for certain types of documents. This system is intended primarily for use by a PHN in their management for their EULA agreements for their general practices. PHNs should seek their own advice regarding their use of this system for documents other than the EULA agreement.
+
+Each PHN using the PHN Exchange can manage presentation of thier documentation to a practice via the PHN Exchange. 
 If a PHN updates its data sharing conditions, it is able , through this system, to present the document to the practice the next time the practice logs into the PHN Exchange. Acceptance of the document by the practice is logged in the PHN Exchange.
 
-# PHN Exchange Terms and conditions
-Please note that users of the PHN Exchange are also requested to accept terms and conditions of use of the PHN Exchange on the first three logins by the user.
+# PHN Exchange Terms of Use
+Please note that users of the PHN Exchange are also requested to accept terms of use of the PHN Exchange on the first three logins by the user.
 
 Below are listed step by step instructions for practices to access their T & A and EULA agreements. 
 

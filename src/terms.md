@@ -1,8 +1,8 @@
-# Terms and Conditions
+# Terms of Use
 
 PHN Exchange has developed a data sharing agreement which incorporates use of the PHN Exchange by external entities. 
 
-The Terms and Conditions automatically present to the PHN Exchange user when they first use the system or when they log into their GP Report. 
+The Terms of Use automatically present to the PHN Exchange user when they first use the system or when they log into their GP Report. 
 
-Terms and conditions published on the PHN exchange are available here:  
+Terms of Use published on the PHN exchange are available here:  
 [https://www.phnexchange.com.au/terms.html](https://www.phnexchange.com.au/terms.html)

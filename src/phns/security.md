@@ -27,7 +27,7 @@ A user can only be logged into the PHN Exchange from one location at a time. Whe
 
 The privacy and data protection requirements exist in contractual arrangements, PHN and Department of Health policy and in the Privacy Act 1988.
 
-* Practices submitting data to their PHN should agree to terms and conditions of the data’s storage and security and to how the data may be used by the PHN.
+* Practices submitting data to their PHN should agree to terms of use of the data’s storage and security and to how the data may be used by the PHN.
 * PHN staff need to sign Codes of Conduct and Privacy agreements on commencement of employment.
 * Each PHN complies with the Departmental PIP QI data governance documented by the Department.
 * Each PHN complies with the Departmental PIP QI data agreements.
