@@ -49,13 +49,26 @@ After the test period has ended, the new version will usually be released and pu
 
 ## Released
 
+
+### 3.0.6 - 21/02/2020
+
+Upgraded
+
+- **ABS Atlas now has increased performance and functionality.**
+
+Fixed
+
+- **Fixed Priority Areas showing incorrect population numbers on some older browsers.**
+- **Several fixes to user interface and browser compatibility.**
+
+  
 ### 3.0.5 - 13/02/2020
 
 Added
 
-- **Added footer to GP Data report with usefull controls**
-- **Added ability to print sections of GP Data Report**
-- **Added 1 minute explanation video per section of the GP Data Report**
+- **Added footer to GP Data report with usefull controls.**
+- **Added ability to print sections of GP Data Report.**
+- **Added 1 minute explanation video per section of the GP Data Report.**
 
 Fixed
 
