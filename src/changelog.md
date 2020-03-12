@@ -49,6 +49,12 @@ After the test period has ended, the new version will usually be released and pu
 
 ## Released
 
+### 3.0.7 - 12/03/2020
+
+Fixed
+
+- **PIP QI Report generation.**
+
 
 ### 3.0.6 - 21/02/2020
 
