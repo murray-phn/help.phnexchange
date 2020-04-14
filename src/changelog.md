@@ -26,6 +26,7 @@ Changed
 Fixed
 
 - **Internet Explorer bug that caused practice profile to redirect forever**
+- **Slight change to PIP QI calculation**
 
 ### 3.0.7 - 12/03/2020
 
