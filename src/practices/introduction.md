@@ -4,7 +4,7 @@ General Practices have access to several features within the PHN Exchange that h
 
 The **GP Hub** also contains helpful information to assist a practice in data quality such as their last data extract date and the last time they have reviewed their Practice Profile.
 
-## GP Hub Features
+## GP Hub features
 
 - **[Practice Profile](../../practices/profile)**  
     Maintain and organise your practice information.
@@ -29,6 +29,6 @@ The **GP Hub** also contains helpful information to assist a practice in data qu
   3. Choose which practice to view the **GP Hub** for and click `CONTINUE`.  
     ![Button GP Hub Coninue](../../images/btn-gp-hub-continue.png)  
 
-    **NOTE:** You may be redirected to give some details about your practice, simply enter the requested fields and click `CONTINUE` at the bottom of the page.
+    **NOTE:** You may be redirected to give some details about your practice. Simply enter the requested fields and click `CONTINUE` at the bottom of the page.
 
   4. Success! You have reached the **GP Hub**.
