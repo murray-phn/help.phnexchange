@@ -13,6 +13,20 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
+### 3.0.9 - N/A
+
+Added
+
+- **LGA name tooltip when hovering over on a PHN's front page**
+
+Changed
+
+- **PIP QI Compliance to only count practices involved with the program based on supplying PIP ID**
+
+Fixed
+
+- **Error on PHN home page related to LGA's**
+
 ### 3.0.8 - 14/04/2020
 
 Added
