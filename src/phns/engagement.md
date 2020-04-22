@@ -118,14 +118,14 @@ Initial engagement should not place additional burdens on the General Practition
 
 Practice engagement should be contextualised. The advice from senior staff outweighs any specific guidance from this document. Please use the points in this section as a guide. Engagement should result in the practice having confidence in your support, confidence in understanding the data and also an agreed path forward (including the way in which future communication will be undertaken).
 
-1. **Making the appointment**  Use this telephone conversation to identify the correct person you should be engaged with at the practice. 
+1. **Making the appointment.**  Use this telephone conversation to identify the correct person you should engage with at the practice. 
 2. Use this telephone conversation to ask them to run a CAT4 report to tell you how many active patients they have.
 3. **The meeting**  Introduce yourself, make sure the practice has your contact details.
-4. **Demonstrate the PHN Exchange**  Show the publicly available data. Show the ABS mapping system. Show the Learning Management System – GP practices may want to use the LMS for their staff induction or some CPD.
-5. **Demonstrating the GP Data Report**  Assist them to access their GP Data Report. Show them the features including the 1 minute videos for each section.
+4. **Demonstrate the PHN Exchange.**  Show the publicly available data. Show the ABS mapping system. Show the Learning Management System – GP practices may want to use the LMS for their staff induction or some CPD.
+5. **Demonstrating the GP Data Report.**  Assist them to access their GP Data Report. Show them the features including the one minute videos for each section.
 6. Show the figures as they align with their CAT4 report. This will provide them with confidence in the report.
-7. **Focus on the areas for data quality improvement**  Always state that data quality improvement will primarily lead to better outcomes for patients.
+7. **Focus on the areas for data quality improvement.**  Always state that data quality improvement will primarily lead to better outcomes for patients.
 8. With the examples you have developed, show them the additional revenue possible.
-9. **Recording the report**  Print out for the practice so they can refer to it in three months’ time when the report is automatically updated.
-10. **Arrange review visits**  By telephone, video conferencing or in person. Initial meeting should be held in person with follow up using video conferencing.
-11. **Ongoing data quality improvement exercises**  Use the GP Data Report to track any changes due to actions decided.
+9. **Recording the report.**  Print out for the practice so they can refer to it in three months’ time when the report is automatically updated.
+10. **Arrange review visits.**  By telephone, video conferencing or in person. Initial meeting should be held in person with follow up using video conferencing.
+11. **Ongoing data quality improvement exercises.**  Use the GP Data Report to track any changes due to actions decided.
