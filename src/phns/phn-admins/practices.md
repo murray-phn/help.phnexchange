@@ -15,7 +15,7 @@ To allow a user access to view practice data they must be added as a **Practice 
 - <a href="../../../members/#sign-in-to-the-phn-exchange" target="_blank">Sign In</a> to your **PHN Admin** account.
 - Click Admin on the left menu and navigate to your PHN.
 - Open the Practices section and find the relevant practice.
-- Scroll to the bottom of the practice page and find the Practice Members section.
+- Scroll to the bottom of the practice page and find the Practice Member section.
 - Click "Create" and a popup will appear, supply an email address of a registered account on the PHN Exchange and toggle the flag "Is Practice Manager" to YES and click the CREATE button.
 
 ## Using PATCAT to automatically setup **Practice Members**
