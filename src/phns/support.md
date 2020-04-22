@@ -6,9 +6,9 @@ There are many resources available included in this Help Centre. These resources
 
 Please see the following sections available through the left hand navigation pane on this site:
 
-- Resources / Training Resources
+- Resources / Training resources
 - Engagement with practices
 - User guides
 
-Please ask if you are unsure either through your line manager, your regional coordinator, Population Health  team or your more experienced peers.
+Please ask if you are unsure through your line manager, your regional coordinator, Population Health  team or your more experienced peers.
 
