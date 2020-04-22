@@ -34,7 +34,7 @@ The **Priority Areas** are composed of four separate parts to represent all  req
 3. Click the switch named `Enable Editing` to toggle it to the Yes position.
 4. Click `CREATE SUBJECT` and enter a Subject name in the popup window.
 6. In the **Create Subject** popup window, enter a subject name and click `CREATE`
-6. Success! you have finished **How to create a Subject**
+6. Success! you have finished **How to create a Subject.**
 
 
 ## How to create a **Measure**
@@ -44,7 +44,7 @@ The **Priority Areas** are composed of four separate parts to represent all  req
 3. Click the switch named `Enable Editing` to toggle it to the Yes position.
 4. Click `CREATE MEASURE` and enter a Subject name in the popup window.
 6. In the **Create Measure** popup window, enter a measure name, source and bias then click `CREATE`
-7. Success! you have finished **How to create a Measure**
+7. Success! you have finished **How to create a Measure.**
 
 ## How to enter an **Entry**
 
