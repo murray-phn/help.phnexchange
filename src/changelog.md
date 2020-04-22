@@ -13,34 +13,37 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
-### 3.0.9 - N/A
+### 3.0.9 - 22/04/2020
 
 Added
 
-- **LGA name tooltip when hovering over on a PHN's front page**
+- **LGA name tooltip when hovering over LGAs with mouse on any PHN's home page.**
 
 Changed
 
-- **PIP QI Compliance to only count practices involved with the program based on supplying PIP ID**
+- **Non PIP Compliant practices list only counts practices that have supplied a PIP ID.**
 
 Fixed
 
-- **Error on PHN home page related to LGA's**
+- **PIP QI Report PHN Name not being generated correctly.**
+- **Error on PHN home page related to LGA's.**
+- **Last 4 reports on GP Data Report not showing.**
+- **Printing not presenting correctly for GP Data Report.**
 
 ### 3.0.8 - 14/04/2020
 
 Added
 
-- **Capacity for PHN's to select their connected LGA's within the PHN Admin portal**
+- **Capacity for PHN's to select their connected LGA's within the PHN Admin portal.**
 
 Changed
 
-- **Redirected Help Centre link to new help centre address**
+- **Redirected Help Centre link to new help centre address.**
 
 Fixed
 
-- **Internet Explorer bug that caused practice profile to redirect forever**
-- **Slight change to PIP QI calculation**
+- **Internet Explorer bug that caused practice profile to redirect forever.**
+- **Slight change to PIP QI calculation.**
 
 ### 3.0.7 - 12/03/2020
 
