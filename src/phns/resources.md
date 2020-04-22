@@ -9,7 +9,7 @@ If you come across other external sites you believe would be useful to be includ
 To review the current resources page of the PHN Exchange:  
 [https://www.phnexchange.com.au/resources.php?phn=205](https://www.phnexchange.com.au/resources.php?phn=205)
 
-## Training Resources
+## Training resources
 
 - [Introduction to PHN Exchange](https://youtu.be/uHfd5ScNO2c) 11min 20 secs
 - [GP Engagement GP profile](https://youtu.be/P8YCFshdRaY) 4 min 38 secs
@@ -24,7 +24,7 @@ To review the current resources page of the PHN Exchange:
 - [PIP QI automatic reporting dashboard](http://www.youtube.com/watch?v=Gd3cZy5-zP4)  (NO voice over commentary) 49 Sec
 - [Practice Instructions to access the EULA](https://youtu.be/WmfFKL_SBCA) 1 min 33 secs
 
-## Administrator Guides
+## Administrator guides
 
 - [PHN Exchange - How to add GP Practice data source](https://youtu.be/SHcnHWvrezU) 2 min 3 secs
 - [PHN Exchange - How to add a new practice member](https://youtu.be/_2HeF-qlGjQ) 1 min 38 secs
