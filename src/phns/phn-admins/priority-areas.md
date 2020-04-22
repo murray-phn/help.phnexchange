@@ -5,7 +5,7 @@ For an introduction please see this video:
 
 ## Structure
 
-The **Priority Areas** are composed of 4 seperate parts to represent all  required information.
+The **Priority Areas** are composed of four separate parts to represent all  required information.
 
 - **Priority Area**  
   The area of focus, for example: Mental Heath
