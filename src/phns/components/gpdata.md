@@ -1,6 +1,6 @@
-# General Practice Data
+# General Practice data
 
-## GP Profile
+## GP profile
 
 The GP profile is a minimum data set about each of the practices your PHN supports. 
 
@@ -10,7 +10,7 @@ When practices login to their GP Data Report, they will be requested to confirm 
 
 This information should be regarded as the one source of truth, and it is this information that should be transcribed into your PHN’s client relationship management system. 
 
-A customised verserion of Dynamics 365 customer relationship management systems is recommended to be used in conjunction with the PHN Exchange.
+A customised version of Dynamics 365 customer relationship management systems is recommended to be used in conjunction with the PHN Exchange.
 
 ## GP Data report
 
@@ -42,7 +42,7 @@ In this case there is a view of the last 15 months and this chart shows that as 
 ## Example 2
 
 In this example, as of October 2019, the practice has 516 active patients diagnosed with a mental health condition
-or prescribed one or more certain medications. We can also see that only 142 patients have a Mental Health Treatment Plan recorded and only 21 have Mental Health Treatment Plan reviews 
+or prescribed one or more certain medications. We can also see that only 142 patients have a Mental Health Treatment Plan recorded and only 21 have Mental Health Treatment Plan reviews.  
 
 ![GP profile form](../../images/PIP2.PNG)
 
@@ -52,10 +52,10 @@ or prescribed one or more certain medications. We can also see that only 142 pat
 
 GP Engagement Validating the GP data report (2 min 11 secs) [CLICK HERE](https://youtu.be/eWFtcGspuEY).
 
-## GP Data Source
+## GP Data source
 
 Configuration for the GP data extraction is found within the Admin page. It shows the individual connection details between the PHN Exchange and your PHNs GP Data source (The database of extracted and de-identified GP Data, held by and under the custodianship of your PHN). Only designated people within the PHN should modify or edit this section.
 
-*Note that the PHN Exchange does not use individual lines of data but rather aggregates numbers within the PHNs database and sends the aggregates back to the PHN Exchange for visualisations to the GP Practice.*
+*Note that the PHN Exchange does not use individual lines of data but rather aggregates numbers within the PHN's database and sends the aggregates back to the PHN Exchange for visualisations to the GP Practice.*
 
-The PHN Exchange sends a database query to the PHN’s database and calculates the number of patients for a practice on the PHNs data base. This number is sent back to the PHN Exchange. When a practice logs into their GP Data Report, the number is used to generate the graph.
+The PHN Exchange sends a database query to the PHN’s database and calculates the number of patients for a practice on the PHN's data base. This number is sent back to the PHN Exchange. When a practice logs into their GP Data Report, the number is used to generate the graph.
