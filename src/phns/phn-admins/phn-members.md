@@ -4,7 +4,7 @@ There are two **PHN Member** roles:
 
 - **Admin**  
     Have full access to change details of a PHN.
-- **PracticeCoordinator**  
+- **Practice Coordinator**  
     Have access to view all of the practices for a PHN through the **GP Hub**.
 
 ## How to create a **PHN Member**
