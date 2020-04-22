@@ -1,23 +1,23 @@
 # Document acceptance system (EULA capture)
 
-The PHN Exchange has an incorporated document acceptance system. It allows each PHN to manage their individual documents (EULA T&A Consent). Each PHN using the PHN Exchange can manage presentation of thier documentation to a practice via the PHN Exchange. 
-If a PHN updates its data sharing conditions, it is able , through this system, to present the document to the practice the next time the practice logs into the PHN Exchange. Acceptance of the document by the practice is logged in the PHN Exchange.
+The PHN Exchange has an incorporated document acceptance system. It allows each PHN to manage their individual documents (EULA T&A Consent). Each PHN using the PHN Exchange can manage presentation of their documentation to a practice via the PHN Exchange. 
+If a PHN updates its data sharing conditions, it is able to present the revised document to the practice the next time the practice logs into the PHN Exchange. Acceptance of the document by the practice is logged in the PHN Exchange.
 
-# PHN Exchange Terms and conditions
+# PHN Exchange terms and conditions
 Please note that users of the PHN Exchange are also requested to accept terms and conditions of use of the PHN Exchange on the first three logins by the user.
 
-Below are listed step by step instructions for practices to access their T & A and EULA agreements. 
+Below are step by step instructions for practices to access their terms and conditions and EULA agreements. 
 
 1.	Go to https://www.phnexchange.com.au/home.php?phn=205.
 2.	From the left side menu under the Account heading select Sign In.
 3.	In the popup click "SIGN IN WITH MICROSOFT" or enter your details into the "Sign up with new email" section.
 4.	If you have "Sign up with new email", you need to confirm your account by clicking a link in an email sent to you.
-5.	After login, check if there is a section named "General Practice" on the left menu. If there is not, contact support (Thomas Heffernan).
+5.	After login, check if there is a section named "General Practice" on the left menu. If there is not, contact support@phnexchange.com.au.
 6.	From the left side menu under the General Practice heading, select GP Data Report and then select your practice.
 7.	After choosing a practice, the Terms of Use will pop up. Review these and then select Accept.
 8.	From the left side menu under the General Practice heading, select GP License Agreements and then select your practice.
 9.	Your pending licences will display; click on "PenCS EULA".
-10.	The End User License Agreement will open; review content and select Agree.
+10.	The End User Licence Agreement will open. Review content and select Agree.
 The following video is also available for practices. 
 Here is a [link](https://youtu.be/WmfFKL_SBCA) on instructions for the EULA: https://youtu.be/WmfFKL_SBCA.
 
@@ -101,7 +101,7 @@ B4.2 The End User must use reasonable endeavours to ensure that PCS and Murray P
  
 (a) providing Installation Services, Training Services and other support services;
  
-(b) supporting the End Users’ compliance with this Agreement; and
+(b) supporting the End User's compliance with this Agreement; and
  
 (c) disabling any unauthorised access to the Software.
  
