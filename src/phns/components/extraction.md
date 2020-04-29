@@ -1,4 +1,4 @@
-# GP Data Extraction
+# GP Data extraction
 
 ## Non-compatible software data uploads
 

@@ -1,19 +1,19 @@
-# System Specifications
+# System specifications
 
 ## Current licensing agreement
 
 PHNs using the PHN Exchange under current licensing agreements receive:
 
 - Access to the fully hosted and supported web platform www.phnexchange.com.au
-- Data protection and security with hosting within Australian Territory.
+- Data protection and security with hosting within Australian territory.
 - Data backups provided through the Microsoft Azure cloud system.
 - System uptime of 99% availability as per Microsoft Azure hosting.
     [https://azure.microsoft.com/en-au/support/legal/sla/summary/](https://azure.microsoft.com/en-au/support/legal/sla/summary/)
-- One year of maintenance support by PHN Exchange Developer staff.
+- One year of maintenance support by PHN Exchange developer staff.
 
 ## Support and resources
 
-PHN Exchange staff will assist you to configure and populate data into PHN Exchange, support and resources included in the licensing agreement include
+PHN Exchange staff will assist you to configure and populate data into PHN Exchange, support and resources included in the licensing agreement include:
 
 - Direct telephone support will be provided to key administrators, PHN developers and systems support staff.
 - Short `how to` videos for your administrative staff to configure and manage data inputs into PHN Exchange.
@@ -25,12 +25,12 @@ For the components your PHN has licensed, your nominated staff are provided with
 This gives you access to several controls:
 
 - Manage your **Practice Datasource** which controls the connection to your General practice extract Database.
-- Manage your **Licenses** (EULAs, Data sharing, Consent) to relevant external parties.
+- Manage your **Licences** (EULAs, Data sharing, Consent) to relevant external parties.
 - Input and manage your own specific data where required.
 
 ## Automated features
 
-Once your administrator has connected the PHN Exchange to your general practice extract data using the **Practice Datasource** the PHN Exchange has the capacity for several automated features.
+Once your administrator has connected the PHN Exchange to your general practice extract data using the **Practice Datasource**, the PHN Exchange has the capacity for several automated features.
 
 These include:
 
@@ -49,7 +49,7 @@ The ABS Atlas is a mapping system linked live to the Australian Bureau of Statis
 
 PHN Exchange developer staff will assist in automating as many data feeds as possible. 
 
-However in many cases, the external custodians of these data sets do not provide interfaces allowing automation also known as an API. 
+However in many cases, the external custodians of these data sets do not provide interfaces allowing automation, also known as an API. 
 
 Currently in Victoria it is possible to automatically update priority area and hotspotting information using the Victorian Health Information Surveillance System (VHISS).
 

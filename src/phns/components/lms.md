@@ -1,14 +1,14 @@
-# LMS
+# Learning Management System
 
-The Learning Management System is a module which enables enrolment, tracking and recognition of completed study modules. The module is an independent platform which can be both outward and inward facing. That is, it can be accessed by students /users outside of your PHN but also used by the PHN staff.   Some PHNs are using their LMS to deploy and monitor GP CPD training. Some PHNs are using it to deploy induction for their PHN staff.
+The Learning Management System (LMS) is an independent online learning platform which can be both outward and inward facing. The LMS is a module which enables enrolment, tracking and recognition of completed study modules. That is, it can be accessed by students /users outside of your PHN but also used by the PHN staff.   Some PHNs are using their LMS to deploy and monitor GP CPD training. Some PHNs are using it to deploy induction for their PHN staff.
 
 Learning modules produced by Murray PHN follow the following forms:
-- Introduction;
-- Learning objectives;
-- Pre learning self-assessed confidence level in the subject matter;
-- Subject matter;
-- Post learning self-assessed confidence level in the subject matter;
-- Completion certificate;
+ Introduction;
+ Learning objectives;
+ Pre learning self-assessed confidence level in the subject matter;
+ Subject matter;
+ Post learning self-assessed confidence level in the subject matter;
+ Completion certificate;
 
 Currently Murray PHN has produced several learning modules including a 'Population Health' module which it has shared with other collaborating PHNs.
 
