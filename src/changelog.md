@@ -13,6 +13,17 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
+### 3.0.10 - 30/04/2020
+
+Added 
+
+- **Ability to mark Priority Area Measures as not being able to average into a PHN total.**
+- **Ability to review all Practice Member accounts on the PHN Admin page.**
+
+Fixed
+
+- **Priority area related bugs.**
+
 ### 3.0.9 - 22/04/2020
 
 Added
