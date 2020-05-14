@@ -13,6 +13,24 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
+### 3.0.11 - 14/05/2020
+
+Added
+
+- **Ability to search list of accepted license agreements by practice.**
+- **Ability to export list of accepted license agreements.**
+- **Ability to remove unpublished license versions.**
+- **Ability to revoke existing license agreements if required by PHN Admins.**
+- **Ability to print licenses from admin panel.**
+
+Fixed
+
+- **Fixed some buttons still being clickable while they were still processing**
+- **The table under the PIP QI Report was listing all practices, now only list practices related to PIP QI.**
+- **Added cleansing process to data coming from PATCAT like email addresses coming with spaces in them.**
+- **PHN Admin attempts to load Practice Datasource and Reports even if no database details have yet been given.**
+- **Priority areas maps not working.**
+
 ### 3.0.10 - 30/04/2020
 
 Added 
