@@ -13,6 +13,18 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
+### 3.0.12 - 18/06/2020
+
+Added
+
+- **Ability to print receipt of accepted license agreement.**
+- **Ability to upload priority area data from csv template file.**
+
+Changed
+
+- **PHN's front page can now list more than 10 regions.**
+- **Accepted license export list now includes accepted date and duration of license.**
+
 ### 3.0.11 - 14/05/2020
 
 Added
