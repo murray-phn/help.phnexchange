@@ -13,6 +13,18 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
+### 3.0.13 - 16/07/2020
+
+Added
+
+- **Finished practice resources functionality**
+
+PHNs can now create "Practice Resources" through the PHN Admin dashboard, these are urls or web addresses that practices may find useful.
+
+These resources can be made exclusive to specific practices.
+
+Practices can access through the GP Hub.
+
 ### 3.0.12 - 18/06/2020
 
 Added
