@@ -13,6 +13,19 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
+
+### 3.0.14 - 31/07/2020
+
+Added
+
+- **Practice engagement report**
+
+Option to export engagement practices have with PHN Exchange
+
+- **License assigned practices report**
+
+Option to export practices that have been assigned to a specific license
+
 ### 3.0.13 - 16/07/2020
 
 Added
