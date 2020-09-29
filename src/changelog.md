@@ -14,19 +14,41 @@ Each partner PHN will:
 After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
 
-### 3.0.14 - 31/07/2020
+### 3.16 - 29/09/2020
+
+Fixed
+
+- **Mapping functionality**
+
+Resolved issue with maps being used in PHN Exchange not loading correctly.
+
+- **Priority area import**
+
+Resolved additional use cases and data types for importing the priority area template data.
+
+
+### 3.15 - 25/08/2020
+
+Fixed
+
+- **Priority area import**
+
+Resolved several issues related to importing Priority Areas template files.
+
+
+### 3.14 - 31/07/2020
 
 Added
 
 - **Practice engagement report**
 
-Option to export engagement practices have with PHN Exchange
+Option to export engagement practices have with PHN Exchange.
 
 - **License assigned practices report**
 
-Option to export practices that have been assigned to a specific license
+Option to export practices that have been assigned to a specific license.
 
-### 3.0.13 - 16/07/2020
+### 3.13 - 16/07/2020
 
 Added
 
@@ -38,7 +60,7 @@ These resources can be made exclusive to specific practices.
 
 Practices can access through the GP Hub.
 
-### 3.0.12 - 18/06/2020
+### 3.12 - 18/06/2020
 
 Added
 
@@ -50,7 +72,7 @@ Changed
 - **PHN's front page can now list more than 10 regions.**
 - **Accepted license export list now includes accepted date and duration of license.**
 
-### 3.0.11 - 14/05/2020
+### 3.11 - 14/05/2020
 
 Added
 
@@ -68,7 +90,7 @@ Fixed
 - **PHN Admin attempts to load Practice Datasource and Reports even if no database details have yet been given.**
 - **Priority areas maps not working.**
 
-### 3.0.10 - 30/04/2020
+### 3.10 - 30/04/2020
 
 Added 
 
@@ -79,7 +101,7 @@ Fixed
 
 - **Priority area related bugs.**
 
-### 3.0.9 - 22/04/2020
+### 3.9 - 22/04/2020
 
 Added
 
@@ -96,7 +118,7 @@ Fixed
 - **Last 4 reports on GP Data Report not showing.**
 - **Printing not presenting correctly for GP Data Report.**
 
-### 3.0.8 - 14/04/2020
+### 3.8 - 14/04/2020
 
 Added
 
@@ -111,13 +133,13 @@ Fixed
 - **Internet Explorer bug that caused practice profile to redirect forever.**
 - **Slight change to PIP QI calculation.**
 
-### 3.0.7 - 12/03/2020
+### 3.7 - 12/03/2020
 
 Fixed
 
 - **PIP QI Report generation.**
 
-### 3.0.6 - 21/02/2020
+### 3.6 - 21/02/2020
 
 Upgraded
 
@@ -128,7 +150,7 @@ Fixed
 - **Fixed Priority Areas showing incorrect population numbers on some older browsers.**
 - **Several fixes to user interface and browser compatibility.**
   
-### 3.0.5 - 13/02/2020
+### 3.5 - 13/02/2020
 
 Added
 
@@ -143,13 +165,13 @@ Fixed
 - **Fixed error related to duplicate practice member and not being able to login.**
 - **Fixed front page not displaying properly on some devices.**
 
-### 3.0.4 - 28/01/2020
+### 3.4 - 28/01/2020
 
 Upgraded
 
 - **Backend software - php 7.3 to php 7.4**
 
-### 3.0.3 - 16/01/2020
+### 3.3 - 16/01/2020
 
 Fixed
 
@@ -160,7 +182,7 @@ Fixed
 - **Error with exclusive licenses**
 - **Fixed some pages not automatically getting new updates**
 
-### 3.0.2 - 14/01/2020
+### 3.2 - 14/01/2020
 
 Upgraded
 
@@ -180,7 +202,7 @@ Known Issues
 - **Some pages not updating with new fixeds**  
   Need to press left control + F5 to hard refresh pages, fixed in next version.
 
-### 3.0.1 - 9/01/2020
+### 3.1 - 9/01/2020
 
 Added
 
@@ -201,7 +223,7 @@ Fixed
 - **CSV PIP QI report to DOH handle PHN names with spaces**
 - **CSV PIP QI report to DOH fixed incorrect name mentioning hour instead of day**
 
-### 3.0.0 - 12/12/2019
+### 3.0 - 12/12/2019
 
 - **Home**
 <p>
