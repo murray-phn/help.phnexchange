@@ -12,7 +12,7 @@ The **GP Hub** also contains helpful information to assist a practice in data qu
     Customised reporting and benchmarking for your practice data.
 - **[Licensing and Agreements](../../practices/licensing-agreements)**  
     Electronic licenses agreements between your practice and your PHN.
-- **Resources** - *not yet available*  
+- **Resources**
     Resources specific to your practice provided by your PHN.
 
 ## How to access the **GP Hub**
