@@ -13,6 +13,13 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
+### 4.0 - 13/10/2020
+
+Added
+
+- **Prioryity area import complted**
+
+Completed priority area import feature.
 
 ### 3.16 - 29/09/2020
 
@@ -22,7 +29,7 @@ Fixed
 
 Resolved issue with maps being used in PHN Exchange not loading correctly.
 
-- **Priority area import**
+- **Priority area import first implementation**
 
 Resolved additional use cases and data types for importing the priority area template data.
 
