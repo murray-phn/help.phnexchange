@@ -13,11 +13,20 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
+### 4.1 - 30/10/2020
+
+Changed
+
+- **Updated priority area interface**
+
+Simplified the priority area interace to better use the screen space to show data.
+
+
 ### 4.0 - 13/10/2020
 
 Added
 
-- **Prioryity area import complted**
+- **Priority area import completed**
 
 Completed priority area import feature.
 
