@@ -13,6 +13,20 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
+### 4.3 - 4/12/2020
+
+Added
+
+- **New PIP QI GP data report graphs**
+
+All new set of 12 graphs that pull directly from PAT BI to report on the 12 quality improvement measures.
+
+### 4.2 - 26/11/2020
+
+Fixed
+
+- **Error with GP Data report graphs**
+
 ### 4.1 - 30/10/2020
 
 Changed
