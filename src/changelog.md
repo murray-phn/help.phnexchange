@@ -13,6 +13,13 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
+
+### 4.4 - 18/12/2020
+
+Added
+
+- **Additional description field to measures in Priority Areas**
+
 ### 4.3 - 4/12/2020
 
 Added
