@@ -27,6 +27,9 @@ commit & push
 # Resources
 
 https://pages.github.com/
+
 https://www.mkdocs.org/
+
 https://www.mkdocs.org/user-guide/configuration/
+
 https://github.com/squidfunk/mkdocs-material
