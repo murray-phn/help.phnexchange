@@ -14,6 +14,42 @@ Each partner PHN will:
 After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
 
+### 4.6 - TBD
+
+- **Prioiry Area PHN Column**
+
+- **GP Data Report - Practice Snapshot**
+
+> A set of measures for the practice to review their latest months extract.
+
+### 4.5 - 12/03/2021
+
+Added
+
+- **Priority Area data export from Admin Panel**
+
+
+Changed
+
+- **GP Data Report - MBS Item services - Past 12 months**
+
+> Changed previous (Count of Patients by MBS Item) table to (MBS Item services - Past 12 months).
+This change come as advice to make the chart more useful for practices wishing to see MBS Items given within minimum claiming periods.
+
+- **Priority areas - Show population default to OFF**
+
+> Population numbers are now hidden by default until turned back on with the settings cog in the top right of the priority areas page. This change is to save confusion and let PHN's show their own population numbers in priority areas. This feature is now only intended to give a reference to previous census population numbers if needed.
+
+Upgraded
+
+- **Backend upgraded to PHP 8**
+
+Fixed
+
+- **PIP QI Charts were incorrect by a margin of 1%-2% in some cases**
+
+- **Coronary Heart Disease Trend Charts not calculating correctly**
+
 ### 4.4 - 18/12/2020
 
 Added
