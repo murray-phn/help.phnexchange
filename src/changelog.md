@@ -14,13 +14,39 @@ Each partner PHN will:
 After the test period has ended, the new version will usually be released and published on the live site within two working days.
 
 
-### 4.6 - TBD
+### 4.6 - 11/06/2021
 
-- **Prioiry Area PHN Column**
+New Features
+
+- **Priority Areas - New Data Columns "PHN" and "AUS"**
+
+> Previously the PHN column was auto-calculated, while this worked to some degree it did not always present the correct information, this has changed to be defined by PHN's directly.
+> The addition of AUS column offers the ability to compare data against Australian statistics.
+> 
+> Please note! Your Import file for Priority Areas will have to be updated! Example file downloaded in (PHN Admin > Priority Areas > Download Template).
+> Or you can update your import file columns to be the following:
+> Priority Area, Subject, Measure, Source, Bias, Description, Data Source Link, <b>PHN</b>, State, <b>AUS</b>
+> If you need any assistance with Priority Area import files, please contact us at: support@phnexchange.com.au
+
+- **Priority Areas - Visual Improvements**
+
+> Priority Areas has been updated to fit much more data.
+
+- **PHN Listing**
+
+> A searchable list of all PHN's are now shown on the home page as an alternative option from the map.
+
+Updated
 
 - **GP Data Report - Practice Snapshot**
 
-> A set of measures for the practice to review their latest months extract.
+> Included some more measures for the practices to review their latest months extract.
+
+Technical Updates
+
+- **Moved to PHI**
+
+> This change has various side effects, from increased security to increased performance in some circumstances.
 
 ### 4.5 - 12/03/2021
 
