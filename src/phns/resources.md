@@ -7,10 +7,9 @@ Many of these sources have been used in the compiling of the Hot Spotting and Ma
 If you come across other external sites you believe would be useful to be included, please inform your Manager. 
 
 To review the current resources page of the PHN Exchange:  
-[https://www.phnexchange.com.au/resources.php?phn=205](https://www.phnexchange.com.au/resources.php?phn=205)
+<a href="https://www.phnexchange.com.au/resources.php?phn=205" target="_blank">https://www.phnexchange.com.au/resources.php?phn=205</a>
 
 ## Training resources
-- <a href="" target="_blank"></a> ()
 - <a href="https://youtu.be/uHfd5ScNO2c" target="_blank">Introduction to PHN Exchange</a> (11min 20 secs)
 - <a href="https://youtu.be/P8YCFshdRaY" target="_blank">GP Engagement GP profile</a> (4 min 38 secs)
 - <a href="https://youtu.be/Cd9cfggO4zE" target="_blank">GP Engagement Hot spotting</a> (2min 30 secs)

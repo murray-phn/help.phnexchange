@@ -7,12 +7,12 @@ Generally, most data extraction software available on the market today extracts 
 The PHN Exchange and its GP Data Report automates the recording and much of the reporting required by the Department.
 
 For more information see the information brochure available on Murray PHN’s website:  
-[https://www.murrayphn.org.au/generalpractice/practice-incentives-program/](https://www.murrayphn.org.au/generalpractice/practice-incentives-program/) 
+<a href="https://www.murrayphn.org.au/generalpractice/practice-incentives-program/" target="_blank">https://www.murrayphn.org.au/generalpractice/practice-incentives-program/</a>
 
 ## Quality improvement
 
 For more information please refer to the Brisbane South PHN Guide:  
-[https://bsphn.org.au/primary-care-support/general-practice-quality-improvement/](https://bsphn.org.au/primary-care-support/general-practice-quality-improvement/)
+<a href="https://bsphn.org.au/primary-care-support/general-practice-quality-improvement/" target="_blank">https://bsphn.org.au/primary-care-support/general-practice-quality-improvement/</a>
 
 ## PIP QI measures
 
