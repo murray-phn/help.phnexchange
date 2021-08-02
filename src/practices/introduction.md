@@ -10,7 +10,7 @@ The **GP Hub** also contains helpful information to assist a practice in data qu
     Maintain and organise your practice information.
 - **[Data Report](../../practices/data-report)**  
     Customised reporting and benchmarking for your practice data.
-- **[Licensing and Agreements](../../practices/licensing-agreements)**  
+- **[Licensing and Agreements](../../practices/licencing-agreements)**  
     Electronic licenses agreements between your practice and your PHN.
 - **Resources**
     Resources specific to your practice provided by your PHN.

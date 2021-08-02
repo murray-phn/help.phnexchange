@@ -14,6 +14,6 @@ Currently Murray PHN has produced several learning modules including a 'Populati
 
 Automated reporting from the system is currently being planned.
 
-To review the Murray PHN LMS please [CLICK HERE](https://murrayphn.myjoomlalms.com/),  and for more details re the LMS [CLICK HERE](https://www.joomlalms.com/).
+<!-- To review the Murray PHN LMS please [CLICK HERE](https://murrayphn.myjoomlalms.com/),  and for more details re the LMS [CLICK HERE](https://www.joomlalms.com/). -->
 
 Support staff at the PHN Exchange are available to support each PHN in their self-management of their instance of the learning management system.

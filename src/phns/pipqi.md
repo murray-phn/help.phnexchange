@@ -6,7 +6,7 @@ Generally, most data extraction software available on the market today extracts 
 
 The PHN Exchange and its GP Data Report automates the recording and much of the reporting required by the Department.
 
-For more informtion see the information brochure available on Murray PHN’s website:  
+For more information see the information brochure available on Murray PHN’s website:  
 [https://www.murrayphn.org.au/generalpractice/practice-incentives-program/](https://www.murrayphn.org.au/generalpractice/practice-incentives-program/) 
 
 ## Quality improvement
