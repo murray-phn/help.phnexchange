@@ -35,14 +35,14 @@ Of course, all practice specific data is only viewable by the practice sharing i
 ## Example 1
 
 The chart below displays one of the  PIP QI measures for a practice.
-In this case there is a view of the last 12 months and this chart shows that as of October 2019, the practice has recorded an alcohol consumption status for 66% of its patients. This is compared to the benchmark average of all data sharing practices of 42%
+In this case there is a view of the last 12 months and this chart shows that as of August 2021, the practice has recorded a smoking status for 66% of its patients. This is compared to the benchmark average of all data sharing practices of 71%
 
 ![GP profile form](../../images/PIP1.PNG)
 
 ## Example 2
 
-In this example, as of October 2019, the practice has 516 active patients diagnosed with a mental health condition
-or prescribed one or more certain medications. We can also see that only 142 patients have a Mental Health Treatment Plan recorded and only 21 have Mental Health Treatment Plan reviews.  
+In this example, as of August 2021, the practice has 783 patients under 7 years of age with immunizations overdue.
+We can also see that only 153 patients are fully immunised.  
 
 ![GP profile form](../../images/PIP2.PNG)
 
@@ -50,7 +50,7 @@ or prescribed one or more certain medications. We can also see that only 142 pat
 
 ### Validating
 
-GP Engagement Validating the GP data report (2 min 11 secs) [CLICK HERE](https://youtu.be/eWFtcGspuEY).
+GP Engagement Validating the GP data report (2 min 11 secs) <a href="https://youtu.be/eWFtcGspuEY" target="_blank">Link</a>.
 
 ## GP Data source
 

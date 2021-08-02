@@ -19,7 +19,7 @@ Below are step by step instructions for practices to access their terms and cond
 9.	Your pending licences will display; click on "PenCS EULA".
 10.	The End User Licence Agreement will open. Review content and select Agree.
 The following video is also available for practices. 
-Here is a [link](https://youtu.be/WmfFKL_SBCA) on instructions for the EULA: https://youtu.be/WmfFKL_SBCA.
+Here is a link on instructions for the EULA: <a href="https://youtu.be/WmfFKL_SBCA" target="_blank">https://youtu.be/WmfFKL_SBCA</a>.
 
 ## Example EULA
 

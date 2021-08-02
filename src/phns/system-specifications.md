@@ -8,7 +8,7 @@ PHNs using the PHN Exchange under current licensing agreements receive:
 - Data protection and security with hosting within Australian territory.
 - Data backups provided through the Microsoft Azure cloud system.
 - System uptime of 99% availability as per Microsoft Azure hosting.
-    [https://azure.microsoft.com/en-au/support/legal/sla/summary/](https://azure.microsoft.com/en-au/support/legal/sla/summary/)
+    <a href="https://azure.microsoft.com/en-au/support/legal/sla/summary/" target="_blank">https://azure.microsoft.com/en-au/support/legal/sla/summary/</a>
 - One year of maintenance support by PHN Exchange developer staff.
 
 ## Support and resources

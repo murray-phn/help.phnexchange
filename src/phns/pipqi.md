@@ -43,7 +43,7 @@ The data each PHN reports on a quraterly basis to the Department includes:
 The GP Data Report includes the PIP QI measures and will visualise any data extracted. 
 
 For review a brief video of the PIP QI section of the GP data report:  
-[https://youtu.be/mFniG-cJ_CU](https://youtu.be/mFniG-cJ_CU) 1min 6 secs
+<a href="https://youtu.be/mFniG-cJ_CU" target="_blank">https://youtu.be/mFniG-cJ_CU</a> (1min 6 secs)
 
 ## De-identification
 

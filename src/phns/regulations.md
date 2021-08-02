@@ -8,10 +8,10 @@ As the data from General Practice is de-identified, each PHN’s custodial oblig
 
 For relevant and up to date information:
 
-[https://www.oaic.gov.au/privacy/australian-privacy-principles/](https://www.oaic.gov.au/privacy/australian-privacy-principles/)
+<a href="https://www.oaic.gov.au/privacy/australian-privacy-principles/" target="_blank">https://www.oaic.gov.au/privacy/australian-privacy-principles/</a>
 
 The States and Territories also have individual Health Records legislation. Although these usually apply to the custodial obligations of identified data, it is good to understand the legislation. 
 
 For full up to date information for Victoria, as an example:
 
-[https://www2.health.vic.gov.au/about/legislation/health-records-act](https://www2.health.vic.gov.au/about/legislation/health-records-act)
+<a href="https://www2.health.vic.gov.au/about/legislation/health-records-act" target="_blank">https://www2.health.vic.gov.au/about/legislation/health-records-act</a>

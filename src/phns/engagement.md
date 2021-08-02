@@ -23,7 +23,7 @@ Subject to your PHN's legal advice, the following clauses should be considered f
 - We take all reasonable steps to protect the privacy of Your Personal Information in accordance with Our statutory obligations under the Privacy Act 1988 (Cth) and other applicable Laws dealing with the protection of Personal Information. 
 - We will store all Data extracted from Your practice management system in a secure data warehouse located in Australia.               
 - In particular, We will comply with Our privacy policy, which you can review and access at the following link:
-[https://www.phnexchange.com.au/privacy.html](https://www.phnexchange.com.au/privacy.html)           
+<a href="https://www.phnexchange.com.au/privacy.html" target="_blank">https://www.phnexchange.com.au/privacy.html</a>
 - Without limiting Our privacy policy, We will not use the Data extracted from Your practice management system by Your PHN for any commercial or financial gain. 
 - All Data collected will be de-identified and aggregated and We will take all reasonable and necessary steps to ensure that individual patients and general practitioners will not be identifiable to any external party (including to Your PHN). We will never share the names of practices, providers or individuals with any third party without consent from Your practice  
 
