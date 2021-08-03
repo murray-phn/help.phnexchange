@@ -35,7 +35,7 @@ Of course, all practice specific data is only viewable by the practice sharing i
 ## Example 1
 
 The chart below displays one of the  PIP QI measures for a practice.
-In this case there is a view of the last 12 months and this chart shows that as of August 2021, the practice has recorded an alcohol comsumption status for 80% of its patients. This is compared to the benchmark average of all data sharing practices of 71%
+In this case there is a view of the last 12 months and this chart shows that as of August 2021, the practice has recorded an alcohol comsumption status for 80% of its patients. This is compared to the benchmark average of all data sharing practices of 51%
 
 ![GP profile form](../../images/gp-example1.png)
 
