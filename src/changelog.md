@@ -2,7 +2,7 @@
 
 All notable changes to the PHN Exchange will be documented in this file.
 
-Partner PHNs are invited to review and test new versions prior to release and publishing on the live site.
+<!-- Partner PHNs are invited to review and test new versions prior to release and publishing on the live site.
 
 Each partner PHN will:
 
@@ -11,10 +11,144 @@ Each partner PHN will:
 - Have 5 working days to complete their testing and provide feedback
 - Be able to send feedback via [support@phnexchange.com.au](mailto:support@phnexchange.com.au)
 
-After the test period has ended, the new version will usually be released and published on the live site within two working days.
+After the test period has ended, the new version will usually be released and published on the live site within two working days. -->
+
+### 5.16 - 27/07/2022
+
+New Features
+
+- **GP Data Report**
+
+> - See the name of the current Practice on the Navigation Menu.
+>
+> - When hovering the mouse for a couple seconds, you can now see a simple formula to understand what they are being compared against.
+>
+> - Since yellow, red and light green graphs can mean different things in agraph, the graphs were re-coloured. Now its used only blue, pink, purple and dark green pallete colors.
+>
+> - Name pattern, all the measures and graphs have now the same naming convention.
+
+Added
+
+- **GP Data Report – Practice Snapshot - Advanced**
+
+> Medication Review: "Active patients on 8 or more medications"
+
+- **GP Data Report – Demographic Profile**
+> "Active patients on 5 or more medications"
+> "Active patients aged 65 years and over, with no visit recorded in last 6 months"
+> "Active patients with Mental Health Diagnosis"
+> "Active patients with Shared health Summary (SHS) Upload during last month"
+> "Active Aboriginal and Torres Strait Islander patients with Chronic Disease"
+
+- **GP Data Report – Data Quality Trend**
+
+> "Active patients with Indigenous status"
+> "Patients with no visit over 36 months"
+> "Active patients with Diagnoses not Coded"
+
+- **GP Data Report – Chronic Conditions Management Trend**
+
+> New section
+> "Active patients with GPMP/TCA, last result in 12 months"
+> "Active patients with GPMP/TCA review, last result in 3 months"
+> "Active patients with GPMP/TCA review, last result in 6 months"
+> "Active patients on 5 or more medications with MMR, last result in 12 months"
+
+- **GP Data Report – Mental Health Trend**
+> "Active patients with MHTP, last result in 12 months"
+> "Active patients with MHTP Review, last result in 3 months"
+> "Active patients with MHTP review, last result in 6 months"
+> "Active patients with a MH condition on 5 or more medications with MMR, last result in 12 months"
+
+- **GP Data Report – Health Assessments Trends**
+> "Active patients with Heart Health Assessment"
+
+- **GP Data Report - Aboriginal and Torres Strait Islander Health Trends**
+> "Active Aboriginal and/or Torres Strait Islander patients with GPMP/TCA, last result in 12 months"
+> "Active Aboriginal and/or Torres Strait Islander patients GPMP/TCA Review, last result in 3 months"
+> "Active Aboriginal and/or Torres Strait Islander patients with GPMP/TCA Review, last result in 6 months"
+> "Active Aboriginal and/or Torres Strait Islander patients on 5 or more medications with MMR, last result in 12 months"
+
+- **GP Data Report – Immunisation**
+> "COVID - Doses applied in the last month"
+
+Updated
+
+- **GP Data Report – Practice Snapshot - Advanced**
+
+> Chronic Disease Management: "Active patients with GPMP/TCA, last result in 12 months"
+> - It was 24 months. Plus, the formula has been updated, its now divided by the "total of active patients with chronic disease", not just "total of active patients".
+>
+> Chronic Disease Management: "Active patients with GPMP/TCA Review, last result in 3 months"
+> - It was 6 months. Plus, the formula has been updated, its now divided by the "total of active patients with GPMP", not just "total of active patients".
+>
+> Medication Review: "Patients on 5 or more medications (Active pattients) with Medication Management Review (<12mths)"
+> Updated to "Active chronic patients on 5 or more medications with MMR, last result in 12 months".
+
+- **GP Data Report – Data Quality Trend**
+
+> "Active patients aged 15 years and over with smoking status recorded"
+> - It was over 18 years old before.
+
+- **GP Data Report – Screening Trend**
+> "Active patients aged between 50 to 74 years old with bowel screens in last 2 years"
+> -Updated to only count patients between 50 and 74 years old.
+> "Participation in Breast Screen Australia program, women aged 50–74"
+> -Updated to only count patients between 50 and 74 years old, not 18-70 anymore.
+> "Participation in the National Cervical Screening Program, people aged 25–74"
+> -Updated to only count patients between 25 and 74 years old, not 18-70 anymore.
+
+- **GP Data Report – Health Assessments Trends**
+> "Active patients aged 75 years and over with Health Assessment, last result in 12 Months"
+> - Updated to only count the ones made in the last 12 months.
+
+- **GP Data Report - Aboriginal and Torres Strait Islander Health Trends**
+> "Active Aboriginal and/or Torres Strait Islander patients Health Assessments, last result in 12 months"
+> - Added the condition of last result in 12 months.
 
 
-### 4.6 - 11/06/2021
+Removed
+
+- **GP Data Report – Practice Snapshot - Advanced**
+
+> Chronic Disease Management: "Active Aoriginal and/or Torres Strait Islander patients with GMPM/TCA last result <24 months"
+> - Moved to the "Aboriginal and Torres Strait Islander Health Trends" section, in graphic form, and not it is 12 months.
+>
+> Chronic Disease Management: "Active Aoriginal and/or Torres Strait Islander patients with GMPM/TCA Review last result <6 months"
+> - Moved to the "Aboriginal and Torres Strait Islander Health Trends" section, in graphic form, and not it is 3 months.
+>
+> Mental Health: "Mental health diagnosis (Active Patients) with Mental Health Treatment Plan (<12months)"
+
+- **GP Data Report – Mental Health Trend**
+> "Proportion of active mental health patients with GP-MHTP Review"
+
+- **GP Data Report – Immunisation**
+> "Adult Pneumococcal"
+> - To be added back in the next release.
+
+Adjusted
+
+- **GP Data Report – PIP QI**
+> Fixed the error that was not printing the titles of graphs 2b and 3b's, when trying to print this report.
+
+### 4.9 - 11/08/2021
+
+New Features
+
+- **GP Data Report – PIP QI**
+
+> Now users can export the reports in a .pdf format;
+> 
+> Added date information, to indicate which extraction the report was generated from.
+
+Updated
+
+- **GP Data Report – Practice Snapshot**
+
+> Adjusted the calculus of "Indigenous Status recorded (Active patients)", and "HbA1c Recorded" for "Patients with Diabetes".
+
+
+### 4.8 - 11/06/2021
 
 New Features
 
