@@ -15,15 +15,23 @@ After the test period has ended, the new version will usually be released and pu
 
 ### 5.30 - 16/11/2022
 
+New features
+
 - **GP Data Report**
 
-Users can toggle between 'Practice and PHN' e 'Practice numbers only'. After accessing a Practice's Data Reports, there is a new option on the right side floating menu, at the bottom. The 'graphs option' and select 'Practice and PHN' or 'Practice numbers only' visualization.
+Users can toggle between 'Practice and PHN' and 'Practice numbers only'. After accessing a Practice's Data Reports, there is a new option on the right side floating menu, at the bottom. The 'graphs option' and select 'Practice and PHN' or 'Practice numbers only' visualization.
 
 > - If 'Practice and PHN' is selected: The page will reload and you can select the report to see the percentage numbers of patients for that graphic and measure against the practice's PHN average.
 Example: Demographics - Active Pensioners > The graph will show the Practice's percentage of Active pensioners (dark blue) and Practice's PHN average of Active pensioners (light blue).
 >
 > - <b>(NEW)</b> If 'Practice numbers only' is selected: The page will reload and you can select the report to see the total numbers of patients for that graphic and measure.
 Example: Demographics - Active Pensioners > The graph will show the Practice's total numbers of Active pensioners (dark blue) and total number of Active patients (light blue).
+
+New Graphs:
+
+> Chronic Conditions Management Trend – Active patients with a GPMP with 10997, last result in 12 months.
+
+> ATSI Health Trend – Active Aboriginal and/or Torres Strait Islander patients with a GPMP with 10987, last result in 12 months.
 
 - **Practices' Members (PHN admins only)**
 
@@ -32,6 +40,12 @@ PHN Admins can now use the GP Admin area, and click to edit a Practice and Regis
 - **Update password (users not registered with Microsoft Account)**
 
 PHN Exchange users that have not registered using their Microsoft Account login method to register, can update their registered password. After loging in, they can use the My Account page to update their password.
+
+Adjusts
+
+- **PHN Admin - Reports**
+
+The new DOH Reports for PIP QI specifications file was adjusted to capitalize all the practices’ names and LGAs, so when submitted, the user won’t receive warnings about this.
 
 ### 5.16 - 27/07/2022
 
