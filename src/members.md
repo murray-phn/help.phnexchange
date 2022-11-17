@@ -57,3 +57,13 @@ To access all of the features within the PHN Exchange, you first need to sign up
 8. Click the `RESET PASSWORD` button in the sent email.
 9. Enter your new password details in the webpage you get redirected to and click `UPDATE`.
 10. Success! You have finished **Reset your password**.
+
+## Update your password (not available for users registered with a Microsoft account)
+
+1. Go to <a href="https://www.phnexchange.com.au/" target="_blank">PHN Exchange</a>.
+2. Select your PHN and click `CONTINUE` at the bottom of the page.
+3. Click `Sign In` under the `Account` section on the left navigation menu.
+4. Enter your details into the `Sign in with existing email` form.
+5. Click the `SIGN IN` button.
+6. Click on `My Details`, on the left menu, under `Account`.
+6. Success! You have finished **Sign In to the PHN Exchange**.

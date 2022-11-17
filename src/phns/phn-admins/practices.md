@@ -10,13 +10,25 @@ To allow a user access to view practice data they must be added as a **Practice 
 
 **PHN Admins** can gives practice staff access to the **GP Hub** through either an automatic or manual process.
 
-## How to add a **Practice Member**
+## How to assign a **Practice Member**
 
+- To assign a registered user to a Practice:
 - <a href="../../../members/#sign-in-to-the-phn-exchange" target="_blank">Sign In</a> to your **PHN Admin** account.
 - Click Admin on the left menu and navigate to your PHN.
 - Open the Practices section and find the relevant practice.
 - Scroll to the bottom of the practice page and find the Practice Member section.
-- Click "Create" and a popup will appear, supply the email address of a registered account on the PHN Exchange and toggle the flag "Is Practice Manager" to YES and click the CREATE button.
+- Click "Assign Existing User" and a popup will appear, supply the email address of a registered account on the PHN Exchange and toggle the flag "Is Practice Manager" to YES (if applicable), tick the checkbox to confirm you are not a robot and click the ASSIGN button.
+- Let the user know that they have been assigned to that practice so they can access their Practice GP Hub page.
+
+## How to add a **Practice Member**
+
+- To register a new user to a Practice:
+- <a href="../../../members/#sign-in-to-the-phn-exchange" target="_blank">Sign In</a> to your **PHN Admin** account.
+- Click Admin on the left menu and navigate to your PHN.
+- Open the Practices section and find the relevant practice.
+- Scroll to the bottom of the practice page and find the Practice Member section.
+- Click "Create User" and a popup will appear, supply the user name, the email address of a the user you want to register on PHN Exchange, pick a temporary password (containing at least 6 characters, numbers and letters) and toggle the flag "Is Practice Manager" to YES (if applicable), tick the checkbox to confirm you are not a robot and click the REGISTER button.
+- Let the user know that they were registered to PHN Exchange and ask them to check their email. That email will contain a link to confirm their registration. After that, the user will have access their Practice GP Hub page.
 
 ## Using PATCAT to automatically setup **Practice Members**
 
