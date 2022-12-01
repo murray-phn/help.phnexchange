@@ -1,8 +1,8 @@
 # General Practice Introduction
 
-General Practices have access to several features within the PHN Exchange that have been organised into a dashboard named the **GP Hub**.
+Welcome PHN Exchange.
 
-The **GP Hub** also contains helpful information to assist a practice in data quality such as their last data extract date and the last time they have reviewed their Practice Profile.
+General Practices have access to several features within our **GP Hub**.
 
 ## GP Hub features
 
@@ -30,5 +30,3 @@ The **GP Hub** also contains helpful information to assist a practice in data qu
     ![Button GP Hub Coninue](../../images/btn-gp-hub-continue.png)  
 
     **NOTE:** You may be redirected to give some details about your practice. Simply enter the requested fields and click `CONTINUE` at the bottom of the page.
-
-  4. Success! You have reached the **GP Hub**.
