@@ -19,7 +19,7 @@ New features
 
 - **PHN Admin**
 
-> Reports > Power Bi
+> Reports > Power Bi 
 > - Users can use PHN Exchange platform to share Power BI reports. After providing the hyperlink, the user can link it to one or more practices, or to all the practices on that PHN. The practice members will be able to access them through their practice page, on GP Hub. The users would still have to have access to them, if restricted.
 
 > Practices > Practice Groups
