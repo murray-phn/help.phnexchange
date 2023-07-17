@@ -13,13 +13,61 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days. -->
 
+### 5.78 - 14/07/2023
+
+New features
+
+- **PHN Admin**
+
+> Reports > Power Bi
+> - Users can use PHN Exchange platform to share Power BI reports. After providing the hyperlink, the user can link it to one or more practices, or to all the practices on that PHN. The practice members will be able to access them through their practice page, on GP Hub. The users would still have to have access to them, if restricted.
+
+> Practices > Practice Groups
+> - PHN Admins can now aggroup their practices. There will be new functionalities soon that will allow PHN members (Admins and Practice Coordinators) to manage these groups, and this will reflect on how Practice Members experience the website.
+
+- **PHN at a Glance**
+
+> For now, PHN Admins can use the Practice Groups (as mentioned above) functionality in PHN at a glance page! In the Practices Overview section, you can see the top and bottom 5 practices of a group only, instead the entire PHN (for the PIP QI measures).
+
+- **Two-factor Authentication**
+
+> To increase the security of the data and to conform with the latest policies, users now must digit a 6-digit number code sent to their e-mails, at their attempt of login, to access the website. Users registered with their Microsoft Account, are exempted, as they have their own two-factor authentication implemented.
+
+- **GP Hub**
+
+> Data Reports
+> - New Graphs for Diabetes Trend.
+
+Adjusts
+
+- **Practices' Members (PHN admins, PHN practice coordinators and practice managers only)**
+
+> PHN Admins, PHN practice coordinators and practice managers can now also assign other users to the practices and even register new PHN Exchange users themselves, assigning them to the respective Practice.
+> The new practice members and managers registered will receive an email that they only have to confirm, and they will be able to see their practice’s reports right away (they will set their own passwords, so no need of a pre-set password anymore!)
+
+- **GP Hub**
+
+> Data Reports
+> - The Practice Snapshot (Standard and Advanced) are being generated way faster than before.
+
+- **PHP Version**
+> Now using version 8.2 of the PHP language.
+
+- **Minor fixes**
+> - ABS Atlas > The link is opening a new tab with the Australian Bureau of Statistics page.
+> - Priority Areas > When you click on an LGA, a new tab will be open with the address of their Census Community Profiles.
+> - PHN Admin > Priority Areas > When a new document is uploaded, if there is any error on the file, the user will know exactly what the error is they need to fix so they can upload the data.
+> - GP Reports without data > If data is non-existent (due to lack of extractions or different database architectures between different PHNs), a new message will appear in the graph to inform this.
+> - Other bugs
+
+
 ### 5.30 - 16/11/2022
 
 New features
 
 - **GP Data Report**
 
-Users can toggle between 'Practice and PHN' and 'Practice numbers only'. After accessing a Practice's Data Reports, there is a new option on the right side floating menu, at the bottom. The 'graphs option' and select 'Practice and PHN' or 'Practice numbers only' visualization.
+> Users can toggle between 'Practice and PHN' and 'Practice numbers only'. After accessing a Practice's Data Reports, there is a new option on the right side floating menu, at the bottom. The 'graphs option' and select 'Practice and PHN' or 'Practice numbers only' visualization.
 
 > - If 'Practice and PHN' is selected: The page will reload and you can select the report to see the percentage numbers of patients for that graphic and measure against the practice's PHN average.
 Example: Demographics - Active Pensioners > The graph will show the Practice's percentage of Active pensioners (dark blue) and Practice's PHN average of Active pensioners (light blue).
@@ -27,25 +75,25 @@ Example: Demographics - Active Pensioners > The graph will show the Practice's p
 > - <b>(NEW)</b> If 'Practice numbers only' is selected: The page will reload and you can select the report to see the total numbers of patients for that graphic and measure.
 Example: Demographics - Active Pensioners > The graph will show the Practice's total numbers of Active pensioners (dark blue) and total number of Active patients (light blue).
 
-New Graphs:
+> New Graphs:
 
-> Chronic Conditions Management Trend – Active patients with a GPMP with 10997, last result in 12 months.
+> - Chronic Conditions Management Trend – Active patients with a GPMP with 10997, last result in 12 months.
 
-> ATSI Health Trend – Active Aboriginal and/or Torres Strait Islander patients with a GPMP with 10987, last result in 12 months.
+> - ATSI Health Trend – Active Aboriginal and/or Torres Strait Islander patients with a GPMP with 10987, last result in 12 months.
 
 - **Practices' Members (PHN admins only)**
 
-PHN Admins can now use the GP Admin area, and click to edit a Practice and Register a User to PHN Exchange (before, they could only assign an existing user to a practice).
+> - PHN Admins can now use the GP Admin area, and click to edit a Practice and Register a User to PHN Exchange (before, they could only assign an existing user to a practice).
 
 - **Update password (users not registered with Microsoft Account)**
 
-PHN Exchange users that have not registered using their Microsoft Account login method to register, can update their registered password. After loging in, they can use the My Account page to update their password.
+> - PHN Exchange users that have not registered using their Microsoft Account login method to register, can update their registered password. After loging in, they can use the My Account page to update their password.
 
 Adjusts
 
 - **PHN Admin - Reports**
 
-The new DOH Reports for PIP QI specifications file was adjusted to capitalize all the practices’ names and LGAs, so when submitted, the user won’t receive warnings about this.
+> - The new DOH Reports for PIP QI specifications file was adjusted to capitalize all the practices’ names and LGAs, so when submitted, the user won’t receive warnings about this.
 
 ### 5.16 - 27/07/2022
 
