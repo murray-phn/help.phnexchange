@@ -29,6 +29,7 @@ To access all of the features within the PHN Exchange, you first need to sign up
       2. If you do not have a Microsoft account:
          1. Enter your details into the `Sign in with existing email` form.
          2. Click the `SIGN IN` button.
+         4. A code will be sent to your e-mail, check the email and enter the code as required (two-factor authentication).
          3. Success! You have finished **Sign In to the PHN Exchange**.
 
 ## Resending confirmation email

@@ -12,3 +12,12 @@ It is crucial that this information is correct, Partner PHNs may need to work wi
 - An exportable CSV file which can be given to Department of Health as a PIP QI submission.
 - An exportable CSV file containing a list of PIP QI compliant practices.
 - An exportable CSV file containing a list of PIP QI Non compliant practices and listings of reasons why.
+
+## **Power BI Reports**
+
+## How to access the **Power BI Reports**
+
+1. Start by follow the guide: <a href="../../practices/introduction/#how-to-access-the-gp-hub" target="_blank">How to access the GP Hub</a>.
+2. Once you have reached the **GP Hub** click the `Power BI Reports` button.
+    ![Button GP Hub](../../images/btn-powerbi-reports.png)  
+3. Success! You have reached the **Data Report**.

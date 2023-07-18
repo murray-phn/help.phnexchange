@@ -20,23 +20,23 @@ New features
 - **PHN Admin**
 
 > Reports > Power Bi 
-> - Users can use PHN Exchange platform to share Power BI reports. After providing the hyperlink, the user can link it to one or more practices, or to all the practices on that PHN. The practice members will be able to access them through their practice page, on GP Hub. The users would still have to have access to them, if restricted.
+> - Users can use PHN Exchange platform to share Power BI reports. After providing the hyperlink, the user can link it to one or more practices, or to all the practices on that PHN. The practice members will be able to access them through their practice page, on GP Hub. PHN's are responsible for adding row level permissions based on practice email address. For more information contact support.
 
 > Practices > Practice Groups
-> - PHN Admins can now aggroup their practices. There will be new functionalities soon that will allow PHN members (Admins and Practice Coordinators) to manage these groups, and this will reflect on how Practice Members experience the website.
+> - PHN Admins and Practice Coordinators can now aggroup practices. There will be extra functionalities soon that will reflect on how Practice Members experience the website.
 
 - **PHN at a Glance**
 
-> For now, PHN Admins can use the Practice Groups (as mentioned above) functionality in PHN at a glance page! In the Practices Overview section, you can see the top and bottom 5 practices of a group only, instead the entire PHN (for the PIP QI measures).
+> PHN Admins can use the Practice Groups (as mentioned above) functionality in the PHN at a glance page! In the Practices Overview section, you can see the top and bottom 5 practices of a group only, as well as the entire PHN practices, for the PIP QI measures.
 
 - **Two-factor Authentication**
 
-> To increase the security of the data and to conform with the latest policies, users now must digit a 6-digit number code sent to their e-mails, at their attempt of login, to access the website. Users registered with their Microsoft Account, are exempted, as they have their own two-factor authentication implemented.
+> To increase the security of the data and to conform with the latest policies, users must now enter a 6-digit number code sent to their e-mail, when attempting to log in and access the website content. Users registered using their Microsoft Account, are exempted, as they have their own multi factor authentication.
 
 - **GP Hub**
 
 > Data Reports
-> - New Graphs for Diabetes Trend.
+> - New graphs added to the “Diabetes Trend” section of the page
 
 Adjusts
 
@@ -51,15 +51,16 @@ Adjusts
 > - The Practice Snapshot (Standard and Advanced) are being generated way faster than before.
 
 - **PHP Version**
+
 > Now using version 8.2 of the PHP language.
 
 - **Minor fixes**
-> - ABS Atlas > The link is opening a new tab with the Australian Bureau of Statistics page.
-> - Priority Areas > When you click on an LGA, a new tab will be open with the address of their Census Community Profiles.
+
+> - ABS Atlas > The link is opening a new tab with the Australian Bureau of Statistics (ABS) page.
+> - Priority Areas > When you click on an LGA, a new tab will be open with the address of their Census Community Profiles on the ABS page.
 > - PHN Admin > Priority Areas > When a new document is uploaded, if there is any error on the file, the user will know exactly what the error is they need to fix so they can upload the data.
 > - GP Reports without data > If data is non-existent (due to lack of extractions or different database architectures between different PHNs), a new message will appear in the graph to inform this.
 > - Other bugs
-
 
 ### 5.30 - 16/11/2022
 

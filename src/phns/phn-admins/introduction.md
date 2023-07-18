@@ -8,10 +8,10 @@ Once you have signed into the PHN Exchange with a valid account, the **PHN Admin
 
 - **[Reports](../reports)**  
     Aggregated global reports for PHNs.
-- **[Practice Datasource](../practice-datasource)**  
-    Setup connection to your PHN Database.
 - **[Practices](../practices)**  
-    A list of all practices within the PHN.
+    A list of all practices within the PHN, Practice Groups, Practice Resources and Setup connection to your PHN Database..
+- **[Practice Members](../practice-members)**  
+    Register new users and assign existing users to the Practices.
 - **[Priority Areas](../practices)**  
     Publicly available data with hot spotting and mapping functions. 
 - **[Regions](../regions)**  
@@ -20,3 +20,5 @@ Once you have signed into the PHN Exchange with a valid account, the **PHN Admin
     Electronic license agreements between a PHN and it's practices.
 - **[PHN Members](../phn-members)**  
     Control who can access to your PHN's features.
+- **[PHN at a Glance](../phn-at-a-glance)**  
+    Current summary of your PHN.

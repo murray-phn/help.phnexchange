@@ -1,43 +1,22 @@
-# **Practices**
+In this area there are four functionalities associated to the practices:
 
-A list of all practices within the PHN.
+- Practices: list of all practices within the PHN;
+- Practice Resources: the resources created for practices;
+- Practice Groups: manage groups of practices;
+- Practice Datasources: 
 
-To allow a user access to view practice data they must be added as a **Practice Member**.
+## **Practice Datasources**
 
-## **Practice Members**
+This is where you enter your PATCAT database details with a read only database user to connect the PHN Exchange to your PATCAT database.
 
-**Practice Members** are PHN Exchange **Members** that have permission to General Practice features and data through a dashboard named the **GP Hub**.
+Please note that in most cases the **driver** text field in most cases will be: `sqlsrv`
 
-**PHN Admins** can gives practice staff access to the **GP Hub** through either an automatic or manual process.
+## **Practice Resources**
 
-## How to assign a **Practice Member**
+This is where you can see and create new resources and assign them to practices. The practice members will be able to view it on their **GP HUB** area. The resources are hyperlinks that will lead the members of that practice to specific pages; 
 
-- To assign a registered user to a Practice:
-- <a href="../../../members/#sign-in-to-the-phn-exchange" target="_blank">Sign In</a> to your **PHN Admin** account.
-- Click Admin on the left menu and navigate to your PHN.
-- Open the Practices section and find the relevant practice.
-- Scroll to the bottom of the practice page and find the Practice Member section.
-- Click "Assign Existing User" and a popup will appear, supply the email address of a registered account on the PHN Exchange and toggle the flag "Is Practice Manager" to YES (if applicable), tick the checkbox to confirm you are not a robot and click the ASSIGN button.
-- Let the user know that they have been assigned to that practice so they can access their Practice GP Hub page.
+**NOTE:** you need to create a resource first and mark as "Is Exclusive" before assign it to practices. If is not exclusive, this will be available to all the practices in your PHN.
 
-## How to add a **Practice Member**
+## **Practice Groups**
 
-- To register a new user to a Practice:
-- <a href="../../../members/#sign-in-to-the-phn-exchange" target="_blank">Sign In</a> to your **PHN Admin** account.
-- Click Admin on the left menu and navigate to your PHN.
-- Open the Practices section and find the relevant practice.
-- Scroll to the bottom of the practice page and find the Practice Member section.
-- Click "Create User" and a popup will appear, supply the user name, the email address of a the user you want to register on PHN Exchange, pick a temporary password (containing at least 6 characters, numbers and letters) and toggle the flag "Is Practice Manager" to YES (if applicable), tick the checkbox to confirm you are not a robot and click the REGISTER button.
-- Let the user know that they were registered to PHN Exchange and ask them to check their email. That email will contain a link to confirm their registration. After that, the user will have access their Practice GP Hub page.
-
-## Using PATCAT to automatically setup **Practice Members**
-
-If the email address in PATCAT against a practice is the same email address that they have registered with, they are automatically assigned as a practice member.
-
-To confirm if a practice has the correct email address assigned in PATCAT:
-
-- Login to your PHN PATCAT portal, for Murray PHN it is <a href="https://patcat.murrayphn.org.au/" target="_blank">https://patcat.murrayphn.org.au/</a> (2min 29 secs)
-- In the top right of the page after login click `Practices`.
-- Select a practice and confirm the associated email address is correct.
-- After updating the email address in PATCAT PHN Exchange should take one minute to reflect the new changes.
-- After PHN Exchange has detected the email change, the practice member using the email address needs to sign out and sign in again to now see the **GP Hub** button.
+This is where you can aggroup your PHN practices in any way you like. This will allow you and other PHN Admins to compare these practices against each other on the **PHN at a Glance** page, section <a href="../../phn-admins/phn-at-a-glance/#practices-overview">Practices Overview</a>.

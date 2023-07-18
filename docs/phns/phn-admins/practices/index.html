@@ -10,10 +10,11 @@
       
       
       
+      
         <link rel="canonical" href="https://www.phnexchange.com.au/phns/phn-admins/practices/">
       
       <link rel="icon" href="../../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-8.5.10">
+      <meta name="generator" content="mkdocs-1.2.1, mkdocs-material-7.1.7">
     
     
       
@@ -21,33 +22,28 @@
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.975780f9.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.ca7ac06f.min.css">
       
         
-        <link rel="stylesheet" href="../../../assets/stylesheets/palette.2505c338.min.css">
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.f1a3b89f.min.css">
         
       
-      
-
     
     
     
       
-        
         
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
-        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
       
+    
     
     
       <link rel="stylesheet" href="../../../css/extra.css">
     
-    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
-
-    
     
     
   </head>
@@ -58,9 +54,10 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="None" data-md-color-accent="None">
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
   
     
+    <script>function __prefix(e){return new URL("../../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -68,7 +65,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#practices" class="md-skip">
+        <a href="#practice-datasources" class="md-skip">
           Skip to content
         </a>
       
@@ -77,10 +74,7 @@
       
     </div>
     
-    
-      
-
-<header class="md-header" data-md-component="header">
+      <header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href="../../.." title="PHN Exchange Help Centre" class="md-header__button md-logo" aria-label="PHN Exchange Help Centre" data-md-component="logo">
       
@@ -88,7 +82,7 @@
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
     </label>
     <div class="md-header__title" data-md-component="header-title">
       <div class="md-header__ellipsis">
@@ -110,24 +104,21 @@
     
     
       <label class="md-header__button md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
       </label>
-      <div class="md-search" data-md-component="search" role="dialog">
+      
+<div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
       <label class="md-search__icon md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
       </label>
-      <nav class="md-search__options" aria-label="Search">
-        
-        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
-        </button>
-      </nav>
-      
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
     </form>
     <div class="md-search__output">
       <div class="md-search__scrollwrap" data-md-scrollfix>
@@ -144,14 +135,11 @@
     
     
   </nav>
-  
 </header>
     
     <div class="md-container" data-md-component="container">
       
       
-        
-          
         
       
       <main class="md-main" data-md-component="main">
@@ -205,14 +193,10 @@
       
         <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
       
-      
-      
-      
-        <label class="md-nav__link" for="__nav_2">
-          General Practices
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
+      <label class="md-nav__link" for="__nav_2">
+        General Practices
+        <span class="md-nav__icon md-icon"></span>
+      </label>
       <nav class="md-nav" aria-label="General Practices" data-md-level="1">
         <label class="md-nav__title" for="__nav_2">
           <span class="md-nav__icon md-icon"></span>
@@ -221,7 +205,6 @@
         <ul class="md-nav__list" data-md-scrollfix>
           
             
-              
   
   
   
@@ -232,10 +215,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -246,24 +227,8 @@
     </li>
   
 
-            
           
             
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../practices/data-report/" class="md-nav__link">
-        Data Report
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
   
   
   
@@ -274,7 +239,42 @@
     </li>
   
 
+          
             
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../practices/data-report/" class="md-nav__link">
+        Data Report
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../practices/powerbi-report/" class="md-nav__link">
+        Power BI Reports
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../practices/practice-members/" class="md-nav__link">
+        Practice Members
+      </a>
+    </li>
+  
+
           
         </ul>
       </nav>
@@ -297,14 +297,10 @@
       
         <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
       
-      
-      
-      
-        <label class="md-nav__link" for="__nav_3">
-          Partner PHNs
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
+      <label class="md-nav__link" for="__nav_3">
+        Partner PHNs
+        <span class="md-nav__icon md-icon"></span>
+      </label>
       <nav class="md-nav" aria-label="Partner PHNs" data-md-level="1">
         <label class="md-nav__title" for="__nav_3">
           <span class="md-nav__icon md-icon"></span>
@@ -313,7 +309,6 @@
         <ul class="md-nav__list" data-md-scrollfix>
           
             
-              
   
   
   
@@ -324,10 +319,8 @@
     </li>
   
 
-            
           
             
-              
   
   
     
@@ -339,14 +332,10 @@
       
         <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_2" type="checkbox" id="__nav_3_2" checked>
       
-      
-      
-      
-        <label class="md-nav__link" for="__nav_3_2">
-          PHN Admin
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
+      <label class="md-nav__link" for="__nav_3_2">
+        PHN Admin
+        <span class="md-nav__icon md-icon"></span>
+      </label>
       <nav class="md-nav" aria-label="PHN Admin" data-md-level="2">
         <label class="md-nav__title" for="__nav_3_2">
           <span class="md-nav__icon md-icon"></span>
@@ -355,7 +344,6 @@
         <ul class="md-nav__list" data-md-scrollfix>
           
             
-              
   
   
   
@@ -366,10 +354,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -380,24 +366,8 @@
     </li>
   
 
-            
           
             
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../practice-datasource/" class="md-nav__link">
-        Practice Datasource
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
   
   
     
@@ -407,8 +377,6 @@
       
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
       
-      
-        
       
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
@@ -421,12 +389,9 @@
       </a>
       
         
-
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
   
   
-  
-    
   
   
     <label class="md-nav__title" for="__toc">
@@ -436,29 +401,22 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#practice-members" class="md-nav__link">
-    Practice Members
+  <a href="#practice-datasources" class="md-nav__link">
+    Practice Datasources
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#how-to-assign-a-practice-member" class="md-nav__link">
-    How to assign a Practice Member
+  <a href="#practice-resources" class="md-nav__link">
+    Practice Resources
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#how-to-add-a-practice-member" class="md-nav__link">
-    How to add a Practice Member
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#using-patcat-to-automatically-setup-practice-members" class="md-nav__link">
-    Using PATCAT to automatically setup Practice Members
+  <a href="#practice-groups" class="md-nav__link">
+    Practice Groups
   </a>
   
 </li>
@@ -470,10 +428,20 @@
     </li>
   
 
-            
           
             
-              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../practice-members/" class="md-nav__link">
+        Practice Members
+      </a>
+    </li>
+  
+
+          
+            
   
   
   
@@ -484,10 +452,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -498,10 +464,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -512,10 +476,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -526,17 +488,26 @@
     </li>
   
 
+          
             
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../phn-at-a-glance/" class="md-nav__link">
+        PHN at a Glance
+      </a>
+    </li>
+  
+
           
         </ul>
       </nav>
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -547,10 +518,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -561,10 +530,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -575,10 +542,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -589,10 +554,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -603,10 +566,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -617,10 +578,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -631,10 +590,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -644,14 +601,10 @@
       
         <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_10" type="checkbox" id="__nav_3_10" >
       
-      
-      
-      
-        <label class="md-nav__link" for="__nav_3_10">
-          Components
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
+      <label class="md-nav__link" for="__nav_3_10">
+        Components
+        <span class="md-nav__icon md-icon"></span>
+      </label>
       <nav class="md-nav" aria-label="Components" data-md-level="2">
         <label class="md-nav__title" for="__nav_3_10">
           <span class="md-nav__icon md-icon"></span>
@@ -660,7 +613,6 @@
         <ul class="md-nav__list" data-md-scrollfix>
           
             
-              
   
   
   
@@ -671,10 +623,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -685,10 +635,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -699,10 +647,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -713,10 +659,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -727,17 +671,14 @@
     </li>
   
 
-            
           
         </ul>
       </nav>
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -748,10 +689,8 @@
     </li>
   
 
-            
           
             
-              
   
   
   
@@ -762,7 +701,6 @@
     </li>
   
 
-            
           
         </ul>
       </nav>
@@ -842,12 +780,9 @@
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
-
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
   
   
-  
-    
   
   
     <label class="md-nav__title" for="__toc">
@@ -857,29 +792,22 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#practice-members" class="md-nav__link">
-    Practice Members
+  <a href="#practice-datasources" class="md-nav__link">
+    Practice Datasources
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#how-to-assign-a-practice-member" class="md-nav__link">
-    How to assign a Practice Member
+  <a href="#practice-resources" class="md-nav__link">
+    Practice Resources
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#how-to-add-a-practice-member" class="md-nav__link">
-    How to add a Practice Member
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#using-patcat-to-automatically-setup-practice-members" class="md-nav__link">
-    Using PATCAT to automatically setup Practice Members
+  <a href="#practice-groups" class="md-nav__link">
+    Practice Groups
   </a>
   
 </li>
@@ -892,96 +820,74 @@
               </div>
             
           
-          
-            <div class="md-content" data-md-component="content">
-              <article class="md-content__inner md-typeset">
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
                 
-                  
-
-
-<h1 id="practices"><strong>Practices</strong><a class="headerlink" href="#practices" title="Permanent link">&para;</a></h1>
-<p>A list of all practices within the PHN.</p>
-<p>To allow a user access to view practice data they must be added as a <strong>Practice Member</strong>.</p>
-<h2 id="practice-members"><strong>Practice Members</strong><a class="headerlink" href="#practice-members" title="Permanent link">&para;</a></h2>
-<p><strong>Practice Members</strong> are PHN Exchange <strong>Members</strong> that have permission to General Practice features and data through a dashboard named the <strong>GP Hub</strong>.</p>
-<p><strong>PHN Admins</strong> can gives practice staff access to the <strong>GP Hub</strong> through either an automatic or manual process.</p>
-<h2 id="how-to-assign-a-practice-member">How to assign a <strong>Practice Member</strong><a class="headerlink" href="#how-to-assign-a-practice-member" title="Permanent link">&para;</a></h2>
-<ul>
-<li>To assign a registered user to a Practice:</li>
-<li><a href="../../../members/#sign-in-to-the-phn-exchange" target="_blank">Sign In</a> to your <strong>PHN Admin</strong> account.</li>
-<li>Click Admin on the left menu and navigate to your PHN.</li>
-<li>Open the Practices section and find the relevant practice.</li>
-<li>Scroll to the bottom of the practice page and find the Practice Member section.</li>
-<li>Click "Assign Existing User" and a popup will appear, supply the email address of a registered account on the PHN Exchange and toggle the flag "Is Practice Manager" to YES (if applicable), tick the checkbox to confirm you are not a robot and click the ASSIGN button.</li>
-<li>Let the user know that they have been assigned to that practice so they can access their Practice GP Hub page.</li>
-</ul>
-<h2 id="how-to-add-a-practice-member">How to add a <strong>Practice Member</strong><a class="headerlink" href="#how-to-add-a-practice-member" title="Permanent link">&para;</a></h2>
-<ul>
-<li>To register a new user to a Practice:</li>
-<li><a href="../../../members/#sign-in-to-the-phn-exchange" target="_blank">Sign In</a> to your <strong>PHN Admin</strong> account.</li>
-<li>Click Admin on the left menu and navigate to your PHN.</li>
-<li>Open the Practices section and find the relevant practice.</li>
-<li>Scroll to the bottom of the practice page and find the Practice Member section.</li>
-<li>Click "Create User" and a popup will appear, supply the user name, the email address of a the user you want to register on PHN Exchange, pick a temporary password (containing at least 6 characters, numbers and letters) and toggle the flag "Is Practice Manager" to YES (if applicable), tick the checkbox to confirm you are not a robot and click the REGISTER button.</li>
-<li>Let the user know that they were registered to PHN Exchange and ask them to check their email. That email will contain a link to confirm their registration. After that, the user will have access their Practice GP Hub page.</li>
-</ul>
-<h2 id="using-patcat-to-automatically-setup-practice-members">Using PATCAT to automatically setup <strong>Practice Members</strong><a class="headerlink" href="#using-patcat-to-automatically-setup-practice-members" title="Permanent link">&para;</a></h2>
-<p>If the email address in PATCAT against a practice is the same email address that they have registered with, they are automatically assigned as a practice member.</p>
-<p>To confirm if a practice has the correct email address assigned in PATCAT:</p>
-<ul>
-<li>Login to your PHN PATCAT portal, for Murray PHN it is <a href="https://patcat.murrayphn.org.au/" target="_blank">https://patcat.murrayphn.org.au/</a> (2min 29 secs)</li>
-<li>In the top right of the page after login click <code>Practices</code>.</li>
-<li>Select a practice and confirm the associated email address is correct.</li>
-<li>After updating the email address in PATCAT PHN Exchange should take one minute to reflect the new changes.</li>
-<li>After PHN Exchange has detected the email change, the practice member using the email address needs to sign out and sign in again to now see the <strong>GP Hub</strong> button.</li>
-</ul>
-
-
-
-
-
                 
-              </article>
-            </div>
-          
-          
+                  <h1>Practices</h1>
+                
+                <p>In this area there are four functionalities associated to the practices:</p>
+<ul>
+<li>Practices: list of all practices within the PHN;</li>
+<li>Practice Resources: the resources created for practices;</li>
+<li>Practice Groups: manage groups of practices;</li>
+<li>Practice Datasources: </li>
+</ul>
+<h2 id="practice-datasources"><strong>Practice Datasources</strong><a class="headerlink" href="#practice-datasources" title="Permanent link">&para;</a></h2>
+<p>This is where you enter your PATCAT database details with a read only database user to connect the PHN Exchange to your PATCAT database.</p>
+<p>Please note that in most cases the <strong>driver</strong> text field in most cases will be: <code>sqlsrv</code></p>
+<h2 id="practice-resources"><strong>Practice Resources</strong><a class="headerlink" href="#practice-resources" title="Permanent link">&para;</a></h2>
+<p>This is where you can see and create new resources and assign them to practices. The practice members will be able to view it on their <strong>GP HUB</strong> area. The resources are hyperlinks that will lead the members of that practice to specific pages; </p>
+<p><strong>NOTE:</strong> you need to create a resource first and mark as "Is Exclusive" before assign it to practices. If is not exclusive, this will be available to all the practices in your PHN.</p>
+<h2 id="practice-groups"><strong>Practice Groups</strong><a class="headerlink" href="#practice-groups" title="Permanent link">&para;</a></h2>
+<p>This is where you can aggroup your PHN practices in any way you like. This will allow you and other PHN Admins to compare these practices against each other on the <strong>PHN at a Glance</strong> page, section <a href="../../phn-admins/phn-at-a-glance/#practices-overview">Practices Overview</a>.</p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
         </div>
         
       </main>
       
-        <footer class="md-footer">
+        
+<footer class="md-footer">
   
-    
-    <nav class="md-footer__inner md-grid" aria-label="Footer" >
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
       
         
-        <a href="../practice-datasource/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Practice Datasource" rel="prev">
+        <a href="../reports/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Reports" rel="prev">
           <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Previous
               </span>
-              Practice Datasource
+              Reports
             </div>
           </div>
         </a>
       
       
         
-        <a href="../priority-areas/" class="md-footer__link md-footer__link--next" aria-label="Next: Priority Areas" rel="next">
+        <a href="../practice-members/" class="md-footer__link md-footer__link--next" aria-label="Next: Practice Members" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              Priority Areas
+              Practice Members
             </div>
           </div>
           <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
           </div>
         </a>
       
@@ -989,15 +895,14 @@
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
-      <div class="md-copyright">
-  
-  
-    Made with
-    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
-      Material for MkDocs
-    </a>
-  
-</div>
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+        
+      </div>
       
     </div>
   </div>
@@ -1007,13 +912,11 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
+    <script id="__config" type="application/json">{"base": "../../..", "features": [], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../../assets/javascripts/workers/search.b0710199.min.js", "version": null}</script>
     
-    <script id="__config" type="application/json">{"base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
     
-    
-      <script src="../../../assets/javascripts/bundle.5a2dcb6a.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.76f349be.min.js"></script>
       
-    
     
   </body>
 </html>
