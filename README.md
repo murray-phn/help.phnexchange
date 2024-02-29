@@ -1,35 +1,33 @@
-# Setup local environment
+# Setup development environment
 
-download python
+1. Download python
+2. `pip install mkdocs`
+3. `pip install mkdocs-material`
 
-`pip install mkdocs`
+# Live preview
 
-`pip install mkdocs-material`
-
-see live preview: 
+Run command:
 `mkdocs serve`
 
 # How to edit
 
-1. Create/update your .md files
+1. Create or update the .md files within /src
 2. Update the mkdocs.yml file (this is what defines the side menu)
 3. Push your changes to the repository
 4. The live site will update within 5 minutes after push
 
 # How to release
 
-`mkdocs build`
-
-Copy the CNAME file into the docs directory
-
-commit & push
+1. Run command: `mkdocs build`
+2. Copy the CNAME file into the /docs directory
+3. Commit & push the github repository
 
 # Resources
 
-https://pages.github.com/
+How the website is hosted:
+- https://pages.github.com/
 
-https://www.mkdocs.org/
-
-https://www.mkdocs.org/user-guide/configuration/
-
-https://github.com/squidfunk/mkdocs-material
+The design of the help centre:
+- https://www.mkdocs.org/
+- https://www.mkdocs.org/user-guide/configuration/
+- https://github.com/squidfunk/mkdocs-material
