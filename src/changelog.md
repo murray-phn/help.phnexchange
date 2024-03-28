@@ -13,6 +13,51 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days. -->
 
+### 6.18 - 28/03/2023
+
+New features
+
+- **PHN Admin**
+
+> Practices Visual Reformulated to Incorporated Primary Sense and Polar databases support
+> - PHN Exchange team is now providing support for PHNs that uses the Primary Sense clinical decision support tool, most of the Practices Reports are already being generated in the Practice Hub.
+
+- **GP Hub**
+> Now users can print all the reports at once, using the button on the right floating menu.
+> PHNs with Primary Sense can now view reports from their practices data.
+
+Adjusts
+
+ - **PHN Exchange**
+ > User Interface3 adjustments.
+ > Backend proccesses improved, to achieve better performance overall.
+
+- **Home Page**
+
+> LGAs map demarcation adjusted to the latest (2023) published by the Australian Bureau of Statistics (ABS) website.
+
+- **Priority Areas**
+
+> Removed the mouse scroll to zoom in and out maps, so users dont zoom in/out maps while trying to scroll down the page.
+
+- **GP Hub**
+
+> Practice Snapshots were updated, before it was showing Snapshots of the most current month, and Practices that didnt submit their extraction on time, were seeing blank values. Updated to get the Snapshot of the latest data evr submitted.
+> Print Report button is now located on the top section of each group of reports, to improve user experience.
+> Some reports were renamed, to reduce confusion and redundancy.
+> Removed Redundant charts and extra PIP QIs reports (a, b and cs).
+> Removed the button to view a video about each of the reports as it was outdated and was not being visualized by users.
+
+- **PHN Admin**
+
+> Reports
+> - Adjusted the Department of Health Report.
+
+- **PHN at a Glance**
+
+> Page reformulated, with graphs reorganized/aggrouped.
+
+
 ### 5.78 - 14/07/2023
 
 New features

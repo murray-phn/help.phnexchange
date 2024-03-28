@@ -1,8 +1,8 @@
 # Setup development environment
 
 1. Download python
-2. `pip install mkdocs`
-3. `pip install mkdocs-material`
+2. `pip install mkdocs` or `py -m pip install mkdocs`
+3. `pip install mkdocs-material` or `py -m pip install mkdocs-material`
 
 # Live preview
 
