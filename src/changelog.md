@@ -13,7 +13,7 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days. -->
 
-### 6.18 - 28/03/2023
+### 6.18 - 28/03/2024
 
 New features
 
@@ -23,12 +23,14 @@ New features
 > - PHN Exchange team is now providing support for PHNs that uses the Primary Sense clinical decision support tool, most of the Practices Reports are already being generated in the Practice Hub.
 
 - **GP Hub**
+
 > Now users can print all the reports at once, using the button on the right floating menu.
 > PHNs with Primary Sense can now view reports from their practices data.
 
 Adjusts
 
  - **PHN Exchange**
+ 
  > User Interface3 adjustments.
  > Backend proccesses improved, to achieve better performance overall.
 
