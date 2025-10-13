@@ -13,6 +13,20 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days. -->
 
+### 6.80 - 26/08/2024
+
+New features
+
+- **GP Data Report Upgrade**
+
+The GP Data Report has been internally remade to support each PHN customizing the data report to their own requirements.
+
+This includes strong performance improvments to GP Data report load times.
+
+- **Security and performance improvments**
+
+- **Internal database improvments**
+
 ### 6.18 - 28/03/2024
 
 New features

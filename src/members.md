@@ -7,7 +7,7 @@ To access all of the features within the PHN Exchange, you first need to sign up
 3. Click `Sign In` under the `Account` section on the left navigation menu.
       1. If you have a Microsoft account:
          1. Click `SIGN IN WITH MICROSOFT`.  
-            ![Button GP Hub](../../images/btn-sign-in-microsoft.png)  
+            ![Button GP Hub](images/btn-sign-in-microsoft.png)  
          2. Success! You have finished **Sign Up to the PHN Exchange**.
       2. If you do not have a Microsoft account:
          1. Enter your details into the `Sign up with new email` form.
@@ -24,7 +24,7 @@ To access all of the features within the PHN Exchange, you first need to sign up
 3. Click `Sign In` under the `Account` section on the left navigation menu.
       1. If you have a Microsoft account:
          1. Click `SIGN IN WITH MICROSOFT`.  
-            ![Button GP Hub](../../images/btn-sign-in-microsoft.png)  
+            ![Button GP Hub](images/btn-sign-in-microsoft.png)  
          2. Success! You have finished **Sign In to the PHN Exchange**.
       2. If you do not have a Microsoft account:
          1. Enter your details into the `Sign in with existing email` form.

@@ -4,7 +4,7 @@ Creating new users or assigning existing ones to General practices (only availab
 
 1. Start by follow the guide: <a href="../../practices/introduction/#how-to-access-the-gp-hub" target="_blank">How to access the GP Hub</a>.
 2. Once you have reached the **GP Hub** click the `Practice Members` button.
-    ![Button GP Hub](../../images/btn-practice-members.png)  
+    ![Button GP Hub](../images/btn-practice-members.png)  
 3. Success! You have reached the **Data Report**.
 
 ## How to register a new **PHN Exchange user** with access to this **Practice**

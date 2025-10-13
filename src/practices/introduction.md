@@ -22,11 +22,11 @@ General Practices have access to several features within our **GP Hub**.
     Access to the **GP Hub** is handled by email address and should be confirmed by your PHN.
 
   2. On the left navigation menu click the **GP Hub** button:  
-    ![Button GP Hub](../../images/btn-gp-hub.png)  
+    ![Button GP Hub](../images/btn-gp-hub.png)  
 
     If the **GP Hub** button does not appear, please make sure you are registering with the correct email address or contact your PHN for support.
 
   3. Choose which practice to view the **GP Hub** for and click `CONTINUE`.  
-    ![Button GP Hub Coninue](../../images/btn-gp-hub-continue.png)  
+    ![Button GP Hub Coninue](../images/btn-gp-hub-continue.png)  
 
     **NOTE:** You may be redirected to give some details about your practice. Simply enter the requested fields and click `CONTINUE` at the bottom of the page.

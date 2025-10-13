@@ -15,8 +15,6 @@ This person can see all GP Data Reports and change any PHN details for their ass
 
 The PHN Exchange Administration section comprises several sections. Each section will expand in a similar way to the actual GP Data report.
 
-![Navigation link to the admin page](../../images/admin-nav.png)
-
 ## Selecting a Practice
 You can see the individual GP Practice profile and their staff email accounts associated with the practice report for each practice by clicking on their name in this list.
 

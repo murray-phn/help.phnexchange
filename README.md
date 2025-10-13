@@ -7,7 +7,7 @@
 # Live preview
 
 Run command:
-`mkdocs serve`
+`mkdocs serve` / `python -m mkdocs serve`
 
 # How to edit
 
@@ -18,7 +18,7 @@ Run command:
 
 # How to release
 
-1. Run command: `mkdocs build`
+1. Run command: `mkdocs build` / `python -m mkdocs build`
 2. Copy the CNAME file into the /docs directory
 3. Commit & push the github repository
 
