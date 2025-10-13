@@ -21,11 +21,11 @@ New features
 
 The GP Data Report has been internally remade to support each PHN customizing the data report to their own requirements.
 
-This includes strong performance improvments to GP Data report load times.
+This includes strong performance improvements to GP Data Report load times.
 
-- **Security and performance improvments**
+- **Security and performance improvements**
 
-- **Internal database improvments**
+- **Internal database improvements**
 
 ### 6.18 - 28/03/2024
 
