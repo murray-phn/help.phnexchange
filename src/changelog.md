@@ -13,7 +13,7 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days. -->
 
-### 6.80 - 26/08/2024
+### 6.80 - 26/08/2025
 
 New features
 
