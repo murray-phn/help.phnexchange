@@ -36,14 +36,14 @@ This section allows creation of Regions within the PHN Exchange. Generally, edit
 ## Licences
 The Licenses section allows your PHN to present documents for acceptance by a Practice.
 
-Once a license has been created, you should contact your practice and inform them that there is a new license to accept.
+Once a licence has been created, you should contact your practice and inform them that there is a new licence to accept.
 
-The acceptance of licenses by Practices is recorded within the PHN Exchange on the license admin page.
+The acceptance of licences by Practices is recorded within the PHN Exchange on the licence admin page.
 
 ![Managing PHN licenses](../../images/licenses.png)
 
-To view the license, you should click on the license name – in this example click on PenCS EULA.
-First of all, you should read the guide and the information about the license.
+To view the licence, you should click on the licence name – in this example click on PenCS EULA.
+First of all, you should read the guide and the information about the licence.
 
 ![Managing PHN licenses](../../images/license.png)
 

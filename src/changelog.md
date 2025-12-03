@@ -13,13 +13,20 @@ Each partner PHN will:
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days. -->
 
+### 6.81 - 3/12/2025
+
+- Optimisations to graph calculations.
+- Optimisations to data collection and management.
+- Security improvements.
+- Priority areas now compare against the state by default.
+
 ### 6.80 - 26/08/2025
 
 New features
 
 - **GP Data Report Upgrade**
 
-The GP Data Report has been internally remade to support each PHN customizing the data report to their own requirements.
+The GP Data Report has been internally remade to support each PHN customising the data report to their own requirements.
 
 This includes strong performance improvements to GP Data Report load times.
 
@@ -31,47 +38,42 @@ This includes strong performance improvements to GP Data Report load times.
 
 New features
 
-- **PHN Admin**
+Practices Visual Reformulated to include Primary Sense and Polar database support
 
-> Practices Visual Reformulated to Incorporated Primary Sense and Polar databases support
-> - PHN Exchange team is now providing support for PHNs that uses the Primary Sense clinical decision support tool, most of the Practices Reports are already being generated in the Practice Hub.
+- PHN Exchange team is now providing support for PHNs that uses the Primary Sense clinical decision support tool, most of the Practices Reports are already being generated in the Practice Hub.
 
-- **GP Hub**
+Now users can print all the reports at once, using the button on the right floating menu.
+PHNs with Primary Sense can now view reports from their practices data.
 
-> Now users can print all the reports at once, using the button on the right floating menu.
-> PHNs with Primary Sense can now view reports from their practices data.
-
-Adjusts
+Adjustments
 
  - **PHN Exchange**
  
- > User Interface3 adjustments.
- > Backend proccesses improved, to achieve better performance overall.
+User Interface adjustments.
+Backend proccesses improved, to achieve better performance overall.
 
 - **Home Page**
 
-> LGAs map demarcation adjusted to the latest (2023) published by the Australian Bureau of Statistics (ABS) website.
+LGAs map demarcation adjusted to the latest (2023) published by the Australian Bureau of Statistics (ABS) website.
 
 - **Priority Areas**
 
-> Removed the mouse scroll to zoom in and out maps, so users dont zoom in/out maps while trying to scroll down the page.
+Removed the mouse scroll to zoom in and out maps, so users dont zoom in/out maps while trying to scroll down the page.
 
 - **GP Hub**
 
-> Practice Snapshots were updated, before it was showing Snapshots of the most current month, and Practices that didnt submit their extraction on time, were seeing blank values. Updated to get the Snapshot of the latest data evr submitted.
-> Print Report button is now located on the top section of each group of reports, to improve user experience.
-> Some reports were renamed, to reduce confusion and redundancy.
-> Removed Redundant charts and extra PIP QIs reports (a, b and cs).
-> Removed the button to view a video about each of the reports as it was outdated and was not being visualized by users.
+Practice Snapshots were updated, before it was showing Snapshots of the most current month, and Practices that didnt submit their extraction on time, were seeing blank values. Updated to get the Snapshot of the latest data evr submitted.
+Print Report button is now located on the top section of each group of reports, to improve user experience.
+Some reports were renamed, to reduce confusion and redundancy.
+Removed Redundant charts and extra PIP QIs reports (a, b and cs).
+Removed the button to view a video about each of the reports as it was outdated and was not being visualised by users.
 
-- **PHN Admin**
 
-> Reports
-> - Adjusted the Department of Health Report.
+Reports
+- Adjusted the Department of Health Report.
 
-- **PHN at a Glance**
 
-> Page reformulated, with graphs reorganized/aggrouped.
+Page reformulated, with graphs reorganised/aggrouped.
 
 
 ### 5.78 - 14/07/2023
@@ -80,48 +82,48 @@ New features
 
 - **PHN Admin**
 
-> Reports > Power Bi 
-> - Users can use PHN Exchange platform to share Power BI reports. After providing the hyperlink, the user can link it to one or more practices, or to all the practices on that PHN. The practice members will be able to access them through their practice page, on GP Hub. PHN's are responsible for adding row level permissions based on practice email address. For more information contact support.
+Reports > Power Bi 
+- Users can use PHN Exchange platform to share Power BI reports. After providing the hyperlink, the user can link it to one or more practices, or to all the practices on that PHN. The practice members will be able to access them through their practice page, on GP Hub. PHN's are responsible for adding row level permissions based on practice email address. For more information contact support.
 
-> Practices > Practice Groups
-> - PHN Admins and Practice Coordinators can now aggroup practices. There will be extra functionalities soon that will reflect on how Practice Members experience the website.
+Practices > Practice Groups
+- PHN Admins and Practice Coordinators can now aggroup practices. There will be extra functionalities soon that will reflect on how Practice Members experience the website.
 
 - **PHN at a Glance**
 
-> PHN Admins can use the Practice Groups (as mentioned above) functionality in the PHN at a glance page! In the Practices Overview section, you can see the top and bottom 5 practices of a group only, as well as the entire PHN practices, for the PIP QI measures.
+PHN Admins can use the Practice Groups (as mentioned above) functionality in the PHN at a glance page! In the Practices Overview section, you can see the top and bottom 5 practices of a group only, as well as the entire PHN practices, for the PIP QI measures.
 
 - **Two-factor Authentication**
 
-> To increase the security of the data and to conform with the latest policies, users must now enter a 6-digit number code sent to their e-mail, when attempting to log in and access the website content. Users registered using their Microsoft Account, are exempted, as they have their own multi factor authentication.
+To increase the security of the data and to conform with the latest policies, users must now enter a 6-digit number code sent to their e-mail, when attempting to log in and access the website content. Users registered using their Microsoft Account, are exempted, as they have their own multi factor authentication.
 
 - **GP Hub**
 
-> Data Reports
-> - New graphs added to the “Diabetes Trend” section of the page
+Data Reports
+- New graphs added to the “Diabetes Trend” section of the page
 
-Adjusts
+Adjustments
 
 - **Practices' Members (PHN admins, PHN practice coordinators and practice managers only)**
 
-> PHN Admins, PHN practice coordinators and practice managers can now also assign other users to the practices and even register new PHN Exchange users themselves, assigning them to the respective Practice.
-> The new practice members and managers registered will receive an email that they only have to confirm, and they will be able to see their practice’s reports right away (they will set their own passwords, so no need of a pre-set password anymore!)
+PHN Admins, PHN practice coordinators and practice managers can now also assign other users to the practices and even register new PHN Exchange users themselves, assigning them to the respective Practice.
+The new practice members and managers registered will receive an email that they only have to confirm, and they will be able to see their practice’s reports right away (they will set their own passwords, so no need of a pre-set password anymore!)
 
 - **GP Hub**
 
-> Data Reports
-> - The Practice Snapshot (Standard and Advanced) are being generated way faster than before.
+Data Reports
+- The Practice Snapshot (Standard and Advanced) are being generated way faster than before.
 
 - **PHP Version**
 
-> Now using version 8.2 of the PHP language.
+Now using version 8.2 of the PHP language.
 
 - **Minor fixes**
 
-> - ABS Atlas > The link is opening a new tab with the Australian Bureau of Statistics (ABS) page.
-> - Priority Areas > When you click on an LGA, a new tab will be open with the address of their Census Community Profiles on the ABS page.
-> - PHN Admin > Priority Areas > When a new document is uploaded, if there is any error on the file, the user will know exactly what the error is they need to fix so they can upload the data.
-> - GP Reports without data > If data is non-existent (due to lack of extractions or different database architectures between different PHNs), a new message will appear in the graph to inform this.
-> - Other bugs
+- ABS Atlas > The link is opening a new tab with the Australian Bureau of Statistics (ABS) page.
+- Priority Areas > When you click on an LGA, a new tab will be open with the address of their Census Community Profiles on the ABS page.
+- PHN Admin > Priority Areas > When a new document is uploaded, if there is any error on the file, the user will know exactly what the error is they need to fix so they can upload the data.
+- GP Reports without data > If data is non-existent (due to lack of extractions or different database architectures between different PHNs), a new message will appear in the graph to inform this.
+- Other bugs
 
 ### 5.30 - 16/11/2022
 
@@ -129,33 +131,33 @@ New features
 
 - **GP Data Report**
 
-> Users can toggle between 'Practice and PHN' and 'Practice numbers only'. After accessing a Practice's Data Reports, there is a new option on the right side floating menu, at the bottom. The 'graphs option' and select 'Practice and PHN' or 'Practice numbers only' visualization.
+Users can toggle between 'Practice and PHN' and 'Practice numbers only'. After accessing a Practice's Data Reports, there is a new option on the right side floating menu, at the bottom. The 'graphs option' and select 'Practice and PHN' or 'Practice numbers only' visualization.
 
-> - If 'Practice and PHN' is selected: The page will reload and you can select the report to see the percentage numbers of patients for that graphic and measure against the practice's PHN average.
+- If 'Practice and PHN' is selected: The page will reload and you can select the report to see the percentage numbers of patients for that graphic and measure against the practice's PHN average.
 Example: Demographics - Active Pensioners > The graph will show the Practice's percentage of Active pensioners (dark blue) and Practice's PHN average of Active pensioners (light blue).
->
-> - <b>(NEW)</b> If 'Practice numbers only' is selected: The page will reload and you can select the report to see the total numbers of patients for that graphic and measure.
+
+- <b>(NEW)</b> If 'Practice numbers only' is selected: The page will reload and you can select the report to see the total numbers of patients for that graphic and measure.
 Example: Demographics - Active Pensioners > The graph will show the Practice's total numbers of Active pensioners (dark blue) and total number of Active patients (light blue).
 
-> New Graphs:
+New Graphs:
 
-> - Chronic Conditions Management Trend – Active patients with a GPMP with 10997, last result in 12 months.
+- Chronic Conditions Management Trend – Active patients with a GPMP with 10997, last result in 12 months.
 
-> - ATSI Health Trend – Active Aboriginal and/or Torres Strait Islander patients with a GPMP with 10987, last result in 12 months.
+- ATSI Health Trend – Active Aboriginal and/or Torres Strait Islander patients with a GPMP with 10987, last result in 12 months.
 
 - **Practices' Members (PHN admins only)**
 
-> - PHN Admins can now use the GP Admin area, and click to edit a Practice and Register a User to PHN Exchange (before, they could only assign an existing user to a practice).
+- PHN Admins can now use the GP Admin area, and click to edit a Practice and Register a User to PHN Exchange (before, they could only assign an existing user to a practice).
 
 - **Update password (users not registered with Microsoft Account)**
 
-> - PHN Exchange users that have not registered using their Microsoft Account login method to register, can update their registered password. After loging in, they can use the My Account page to update their password.
+- PHN Exchange users that have not registered using their Microsoft Account login method to register, can update their registered password. After loging in, they can use the My Account page to update their password.
 
-Adjusts
+Adjustments
 
 - **PHN Admin - Reports**
 
-> - The new DOH Reports for PIP QI specifications file was adjusted to capitalize all the practices’ names and LGAs, so when submitted, the user won’t receive warnings about this.
+- The new DOH Reports for PIP QI specifications file was adjusted to capitalize all the practices’ names and LGAs, so when submitted, the user won’t receive warnings about this.
 
 ### 5.16 - 27/07/2022
 
@@ -163,158 +165,158 @@ New Features
 
 - **GP Data Report**
 
-> - See the name of the current Practice on the Navigation Menu.
->
-> - When hovering the mouse for a couple seconds, you can now see a simple formula to understand what they are being compared against.
->
-> - Since yellow, red and light green graphs can mean different things in agraph, the graphs were re-coloured. Now its used only blue, pink, purple and dark green pallete colors.
->
-> - Name pattern, all the measures and graphs have now the same naming convention.
+- See the name of the current Practice on the Navigation Menu.
+
+- When hovering the mouse for a couple seconds, you can now see a simple formula to understand what they are being compared against.
+
+- Since yellow, red and light green graphs can mean different things in agraph, the graphs were re-coloured. Now its used only blue, pink, purple and dark green pallete colors.
+
+- Name pattern, all the measures and graphs have now the same naming convention.
 
 Added
 
 - **GP Data Report – Practice Snapshot - Advanced**
 
-> Medication Review: "Active patients on 8 or more medications"
+Medication Review: "Active patients on 8 or more medications"
 
 - **GP Data Report – Demographic Profile**
 
-> "Active patients on 5 or more medications"
->
-> "Active patients aged 65 years and over, with no visit recorded in last 6 months"
->
-> "Active patients with Mental Health Diagnosis"
->
-> "Active patients with Shared health Summary (SHS) Upload during last month"
->
-> "Active Aboriginal and Torres Strait Islander patients with Chronic Disease"
+"Active patients on 5 or more medications"
+
+"Active patients aged 65 years and over, with no visit recorded in last 6 months"
+
+"Active patients with Mental Health Diagnosis"
+
+"Active patients with Shared health Summary (SHS) Upload during last month"
+
+"Active Aboriginal and Torres Strait Islander patients with Chronic Disease"
 
 - **GP Data Report – Data Quality Trend**
 
-> "Active patients with Indigenous status"
->
-> "Patients with no visit over 36 months"
->
-> "Active patients with Diagnoses not Coded"
+"Active patients with Indigenous status"
+
+"Patients with no visit over 36 months"
+
+"Active patients with Diagnoses not Coded"
 
 - **GP Data Report – Chronic Conditions Management Trend**
 
-> New section
->
-> "Active patients with GPMP/TCA, last result in 12 months"
->
-> "Active patients with GPMP/TCA review, last result in 3 months"
->
-> "Active patients with GPMP/TCA review, last result in 6 months"
->
-> "Active patients on 5 or more medications with MMR, last result in 12 months"
+New section
+
+"Active patients with GPMP/TCA, last result in 12 months"
+
+"Active patients with GPMP/TCA review, last result in 3 months"
+
+"Active patients with GPMP/TCA review, last result in 6 months"
+
+"Active patients on 5 or more medications with MMR, last result in 12 months"
 
 - **GP Data Report – Mental Health Trend**
 
-> "Active patients with MHTP, last result in 12 months"
->
-> "Active patients with MHTP Review, last result in 3 months"
->
-> "Active patients with MHTP review, last result in 6 months"
->
-> "Active patients with a MH condition on 5 or more medications with MMR, last result in 12 months"
+"Active patients with MHTP, last result in 12 months"
+
+"Active patients with MHTP Review, last result in 3 months"
+
+"Active patients with MHTP review, last result in 6 months"
+
+"Active patients with a MH condition on 5 or more medications with MMR, last result in 12 months"
 
 - **GP Data Report – Health Assessments Trends**
 
-> "Active patients with Heart Health Assessment"
+"Active patients with Heart Health Assessment"
 
 - **GP Data Report - Aboriginal and Torres Strait Islander Health Trends**
 
-> "Active Aboriginal and/or Torres Strait Islander patients with GPMP/TCA, last result in 12 months"
->
-> "Active Aboriginal and/or Torres Strait Islander patients GPMP/TCA Review, last result in 3 months"
->
-> "Active Aboriginal and/or Torres Strait Islander patients with GPMP/TCA Review, last result in 6 months"
->
-> "Active Aboriginal and/or Torres Strait Islander patients on 5 or more medications with MMR, last result in 12 months"
+"Active Aboriginal and/or Torres Strait Islander patients with GPMP/TCA, last result in 12 months"
+
+"Active Aboriginal and/or Torres Strait Islander patients GPMP/TCA Review, last result in 3 months"
+
+"Active Aboriginal and/or Torres Strait Islander patients with GPMP/TCA Review, last result in 6 months"
+
+"Active Aboriginal and/or Torres Strait Islander patients on 5 or more medications with MMR, last result in 12 months"
 
 - **GP Data Report – Immunisation**
 
-> "COVID - Doses applied in the last month"
+"COVID - Doses applied in the last month"
 
 Updated
 
 - **GP Data Report – Practice Snapshot - Advanced**
 
-> Chronic Disease Management: "Active patients with GPMP/TCA, last result in 12 months"
->
-> - It was 24 months. Plus, the formula has been updated, its now divided by the "total of active patients with chronic disease", not just "total of active patients".
->
-> Chronic Disease Management: "Active patients with GPMP/TCA Review, last result in 3 months"
->
-> - It was 6 months. Plus, the formula has been updated, its now divided by the "total of active patients with GPMP", not just "total of active patients".
->
-> Medication Review: "Patients on 5 or more medications (Active pattients) with Medication Management Review (<12mths)"
->
-> - Updated to "Active chronic patients on 5 or more medications with MMR, last result in 12 months".
+Chronic Disease Management: "Active patients with GPMP/TCA, last result in 12 months"
+
+- It was 24 months. Plus, the formula has been updated, its now divided by the "total of active patients with chronic disease", not just "total of active patients".
+
+Chronic Disease Management: "Active patients with GPMP/TCA Review, last result in 3 months"
+
+- It was 6 months. Plus, the formula has been updated, its now divided by the "total of active patients with GPMP", not just "total of active patients".
+
+Medication Review: "Patients on 5 or more medications (Active pattients) with Medication Management Review (<12mths)"
+
+- Updated to "Active chronic patients on 5 or more medications with MMR, last result in 12 months".
 
 - **GP Data Report – Data Quality Trend**
 
-> "Active patients aged 15 years and over with smoking status recorded"
->
-> - It was over 18 years old before.
+"Active patients aged 15 years and over with smoking status recorded"
+
+- It was over 18 years old before.
 
 - **GP Data Report – Screening Trend**
 
-> "Active patients aged between 50 to 74 years old with bowel screens in last 2 years"
->
-> -Updated to only count patients between 50 and 74 years old.
->
-> "Participation in Breast Screen Australia program, women aged 50–74"
->
-> -Updated to only count patients between 50 and 74 years old, not 18-70 anymore.
->
-> "Participation in the National Cervical Screening Program, people aged 25–74"
->
-> -Updated to only count patients between 25 and 74 years old, not 18-70 anymore.
+"Active patients aged between 50 to 74 years old with bowel screens in last 2 years"
+
+-Updated to only count patients between 50 and 74 years old.
+
+"Participation in Breast Screen Australia program, women aged 50–74"
+
+-Updated to only count patients between 50 and 74 years old, not 18-70 anymore.
+
+"Participation in the National Cervical Screening Program, people aged 25–74"
+
+-Updated to only count patients between 25 and 74 years old, not 18-70 anymore.
 
 - **GP Data Report – Health Assessments Trends**
 
-> "Active patients aged 75 years and over with Health Assessment, last result in 12 Months"
->
-> - Updated to only count the ones made in the last 12 months.
+"Active patients aged 75 years and over with Health Assessment, last result in 12 Months"
+
+- Updated to only count the ones made in the last 12 months.
 
 - **GP Data Report - Aboriginal and Torres Strait Islander Health Trends**
 
-> "Active Aboriginal and/or Torres Strait Islander patients Health Assessments, last result in 12 months"
->
-> - Added the condition of last result in 12 months.
+"Active Aboriginal and/or Torres Strait Islander patients Health Assessments, last result in 12 months"
+
+- Added the condition of last result in 12 months.
 
 
 Removed
 
 - **GP Data Report – Practice Snapshot - Advanced**
 
-> Chronic Disease Management: "Active Aoriginal and/or Torres Strait Islander patients with GMPM/TCA last result <24 months"
->
-> - Moved to the "Aboriginal and Torres Strait Islander Health Trends" section, in graphic form, and not it is 12 months.
->
-> Chronic Disease Management: "Active Aoriginal and/or Torres Strait Islander patients with GMPM/TCA Review last result <6 months"
->
-> - Moved to the "Aboriginal and Torres Strait Islander Health Trends" section, in graphic form, and not it is 3 months.
->
-> Mental Health: "Mental health diagnosis (Active Patients) with Mental Health Treatment Plan (<12months)"
+Chronic Disease Management: "Active Aoriginal and/or Torres Strait Islander patients with GMPM/TCA last result <24 months"
+
+- Moved to the "Aboriginal and Torres Strait Islander Health Trends" section, in graphic form, and not it is 12 months.
+
+Chronic Disease Management: "Active Aoriginal and/or Torres Strait Islander patients with GMPM/TCA Review last result <6 months"
+
+- Moved to the "Aboriginal and Torres Strait Islander Health Trends" section, in graphic form, and not it is 3 months.
+
+Mental Health: "Mental health diagnosis (Active Patients) with Mental Health Treatment Plan (<12months)"
 
 - **GP Data Report – Mental Health Trend**
 
-> "Proportion of active mental health patients with GP-MHTP Review"
+"Proportion of active mental health patients with GP-MHTP Review"
 
 - **GP Data Report – Immunisation**
 
-> "Adult Pneumococcal"
->
-> - To be added back in the next release.
+"Adult Pneumococcal"
+
+- To be added back in the next release.
 
 Adjusted
 
 - **GP Data Report – PIP QI**
 
-> Fixed the error that was not printing the titles of graphs 2b and 3b's, when trying to print this report.
+Fixed the error that was not printing the titles of graphs 2b and 3b's, when trying to print this report.
 
 ### 4.9 - 11/08/2021
 
@@ -322,15 +324,15 @@ New Features
 
 - **GP Data Report – PIP QI**
 
-> Now users can export the reports in a .pdf format;
-> 
-> Added date information, to indicate which extraction the report was generated from.
+Now users can export the reports in a .pdf format;
+
+Added date information, to indicate which extraction the report was generated from.
 
 Updated
 
 - **GP Data Report – Practice Snapshot**
 
-> Adjusted the calculus of "Indigenous Status recorded (Active patients)", and "HbA1c Recorded" for "Patients with Diabetes".
+Adjusted the calculus of "Indigenous Status recorded (Active patients)", and "HbA1c Recorded" for "Patients with Diabetes".
 
 
 ### 4.8 - 11/06/2021
@@ -339,21 +341,21 @@ New Features
 
 - **Priority Areas - New Data Columns "PHN" and "AUS"**
 
-> Previously the PHN column was auto-calculated, while this worked to some degree it did not always present the correct information, this has changed to be defined by PHN's directly.
-> The addition of AUS column offers the ability to compare data against Australian statistics.
-> 
-> Please note! Your Import file for Priority Areas will have to be updated! Example file downloaded in (PHN Admin > Priority Areas > Download Template).
-> Or you can update your import file columns to be the following:
-> Priority Area, Subject, Measure, Source, Bias, Description, Data Source Link, <b>PHN</b>, State, <b>AUS</b>
-> If you need any assistance with Priority Area import files, please contact us at: support@phnexchange.com.au
+Previously the PHN column was auto-calculated, while this worked to some degree it did not always present the correct information, this has changed to be defined by PHN's directly.
+The addition of AUS column offers the ability to compare data against Australian statistics.
+
+Please note! Your Import file for Priority Areas will have to be updated! Example file downloaded in (PHN Admin > Priority Areas > Download Template).
+Or you can update your import file columns to be the following:
+Priority Area, Subject, Measure, Source, Bias, Description, Data Source Link, <b>PHN</b>, State, <b>AUS</b>
+If you need any assistance with Priority Area import files, please contact us at: support@phnexchange.com.au
 
 - **Priority Areas - Visual Improvements**
 
-> Priority Areas has been updated to fit much more data.
+Priority Areas has been updated to fit much more data.
 
 - **PHN Listing**
 
-> A searchable list of all PHN's are now shown on the home page as an alternative option from the map.
+A searchable list of all PHN's are now shown on the home page as an alternative option from the map.
 
 ### 4.5 - 12/03/2021
 
@@ -366,12 +368,12 @@ Changed
 
 - **GP Data Report - MBS Item services - Past 12 months**
 
-> Changed previous (Count of Patients by MBS Item) table to (MBS Item services - Past 12 months).
+Changed previous (Count of Patients by MBS Item) table to (MBS Item services - Past 12 months).
 This change come as advice to make the chart more useful for practices wishing to see MBS Items given within minimum claiming periods.
 
 - **Priority areas - Show population default to OFF**
 
-> Population numbers are now hidden by default until turned back on with the settings cog in the top right of the priority areas page. This change is to save confusion and let PHN's show their own population numbers in priority areas. This feature is now only intended to give a reference to previous census population numbers if needed.
+Population numbers are now hidden by default until turned back on with the settings cog in the top right of the priority areas page. This change is to save confusion and let PHN's show their own population numbers in priority areas. This feature is now only intended to give a reference to previous census population numbers if needed.
 
 Upgraded
 
@@ -450,9 +452,9 @@ Added
 
 Option to export engagement practices have with PHN Exchange.
 
-- **License assigned practices report**
+- **Licence assigned practices report**
 
-Option to export practices that have been assigned to a specific license.
+Option to export practices that have been assigned to a specific licence.
 
 ### 3.13 - 16/07/2020
 
@@ -470,23 +472,23 @@ Practices can access through the GP Hub.
 
 Added
 
-- **Ability to print receipt of accepted license agreement.**
+- **Ability to print receipt of accepted licence agreement.**
 - **Ability to upload priority area data from csv template file.**
 
 Changed
 
 - **PHN's front page can now list more than 10 regions.**
-- **Accepted license export list now includes accepted date and duration of license.**
+- **Accepted licence export list now includes accepted date and duration of licence.**
 
 ### 3.11 - 14/05/2020
 
 Added
 
-- **Ability to search list of accepted license agreements by practice.**
-- **Ability to export list of accepted license agreements.**
-- **Ability to remove unpublished license versions.**
-- **Ability to revoke existing license agreements if required by PHN Admins.**
-- **Ability to print licenses from admin panel.**
+- **Ability to search list of accepted licence agreements by practice.**
+- **Ability to export list of accepted licence agreements.**
+- **Ability to remove unpublished licence versions.**
+- **Ability to revoke existing licence agreements if required by PHN Admins.**
+- **Ability to print licences from admin panel.**
 
 Fixed
 
@@ -585,7 +587,7 @@ Fixed
 - **Added missing bipolar record on Mental Health graphs**
 - **Typos in health conditions**
 - **Wording on some graphs from 'completed' to 'recorded by practice'**
-- **Error with exclusive licenses**
+- **Error with exclusive licences**
 - **Fixed some pages not automatically getting new updates**
 
 ### 3.2 - 14/01/2020
@@ -600,7 +602,7 @@ Fixed
 - **Priority Area Export incorrectly listing LGA names**
 - **PIP QI Registration Date not being loaded for PIP QI Report**
 - **Incorrect Naming of PHN Member Role**
-- **Visual Bug related to perpetual license agreements**
+- **Visual Bug related to perpetual licence agreements**
 - **Colour of buttons in priority areas for saving/updating content**
 
 Known Issues
@@ -612,10 +614,10 @@ Known Issues
 
 Added
 
-- **Ongoing license agreement types**
+- **Ongoing licence agreement types**
 
 <p>
-    The ability to have ongoing or perpetual practice license agreements between PHNs and General Practices.
+    The ability to have ongoing or perpetual practice licence agreements between PHNs and General Practices.
 </p>
 
 - **UI Upgrade to tables**
@@ -646,15 +648,15 @@ Fixed
     In priority areas, the names of local government areas's now link to an ABS Statistics website.
 </p>
 
-- **Practice specific licenses**
+- **Practice specific licences**
 <p>
-    Licenses created by PHNs can now be assigned to only be seen and accepted by specific practices.
+    Licences created by PHNs can now be assigned to only be seen and accepted by specific practices.
 </p>
 
 - **GP Data Report**
 <p>
-    Option for practices to sign required license agreements to access GP Data Report.
-    Licenses created by PHNs can be toggled to block the GP Data Report until they have been accepted.
+    Option for practices to sign required licence agreements to access GP Data Report.
+    Licences created by PHNs can be toggled to block the GP Data Report until they have been accepted.
     Time series graphs display as percentages, solid colour represents the PHN percentage while the line represents the Practice percentage.
     Graphs have been reordered showing time series graphs at the top of the GP Data Report while instant time graphs have moved to the bottom.
 </p>
